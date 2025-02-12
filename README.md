@@ -46,20 +46,20 @@ I'm a passionate web developer, currently learning **HTML, CSS, JavaScript, MySQ
 ### 🌐 Portfolio Website
 - **Description:** A personal portfolio showcasing my skills, projects, and contact information.
 - **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
-- **Live Demo:** [View Project](https://abde777.github.io/PORTFOLIOO/PORTF%20ABDE/PORTFOLIO.html)
-- **GitHub Repo:** [Repo Link](#)
+- **Live Demo:** <a href="https://abde777.github.io/PORTFOLIOO/PORTF%20ABDE/PORTFOLIO.html" target="_blank">View Project</a>
+- **GitHub Repo:** <a href="#" target="_blank">Repo Link</a>
 
 ### 🏆 Luxury Footwear & Apparel Store
 - **Description:** A premium e-commerce website for fashion and footwear.
 - **Tech Stack:** HTML, CSS, JavaScript
-- **Live Demo:** [View Project](https://abde777.github.io/tp/)
-- **GitHub Repo:** [Repo Link](#)
+- **Live Demo:** <a href="https://abde777.github.io/tp/" target="_blank">View Project</a>
+- **GitHub Repo:** <a href="#" target="_blank">Repo Link</a>
 
 ### 👕 T-Shirt Store
 - **Description:** A trendy online T-shirt shop with a clean UI/UX design.
 - **Tech Stack:** HTML, CSS, JavaScript
-- **Live Demo:** [View Project](https://abde777.github.io/SITE2/1stproject/home.html)
-- **GitHub Repo:** [Repo Link](#)
+- **Live Demo:** <a href="https://abde777.github.io/SITE2/1stproject/home.html" target="_blank">View Project</a>
+- **GitHub Repo:** <a href="#" target="_blank">Repo Link</a>
 
 ---
 
