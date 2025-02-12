@@ -8,7 +8,7 @@
 
 ## 🌟 Beginner Full-Stack Web Developer
 
-I'm a passionate web developer, currently learning **HTML, CSS, JavaScript, MySQL, and PHP**. Over the next five years, I plan to master **Laravel, React, UML, Git, GitHub, Tailwind CSS, and Next.js**. I love **debugging, solving coding challenges, and creating new projects**. My goal is to become a **senior web developer**, work on exciting projects, and expand my professional network!
+I'm a passionate web developer, currently learning **HTML, CSS, JavaScript, MySQL, and PHP**. Over the next  year, I plan to master **Laravel, React, UML, Git, GitHub, Tailwind CSS, and Next.js**. I love **debugging, solving coding challenges, and creating new projects**. My goal is to become a **senior web developer**, work on exciting projects, and expand my professional network!
 
 ---
 
