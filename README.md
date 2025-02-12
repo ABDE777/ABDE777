@@ -14,30 +14,28 @@ I'm a passionate web developer, currently learning **HTML, CSS, JavaScript, MySQ
 
 ## 🚀 Technologies & Tools
 
-### Frontend:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+### 🚀 Frontend:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
+---
 
+### 📚 Currently Learning:
 
-### Currently Learning:
+#### 🎨 Frontend:
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Front End:
+#### 🖥️ Backend:
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+#### 🛠️ Version Control & DevOps:
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-### Backend:
-
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Version Control & DevOps: 
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ---
 
@@ -45,21 +43,21 @@ I'm a passionate web developer, currently learning **HTML, CSS, JavaScript, MySQ
 
 ### 🌐 Portfolio Website
 - **Description:** A personal portfolio showcasing my skills, projects, and contact information.
-- **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
-- **Live Demo:** <a href="https://abde777.github.io/PORTFOLIOO/PORTF%20ABDE/PORTFOLIO.html" target="_blank">View Project</a>
-- **GitHub Repo:** <a href="#" target="_blank">Repo Link</a>
+- **Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-blue?style=for-the-badge)](https://abde777.github.io/PORTFOLIOO/PORTF%20ABDE/PORTFOLIO.html)  
+[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-grey?style=for-the-badge)](#)
 
 ### 🏆 Luxury Footwear & Apparel Store
 - **Description:** A premium e-commerce website for fashion and footwear.
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Live Demo:** <a href="https://abde777.github.io/tp/" target="_blank">View Project</a>
-- **GitHub Repo:** <a href="#" target="_blank">Repo Link</a>
+- **Tech Stack:** HTML, CSS, JavaScript  
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-blue?style=for-the-badge)](https://abde777.github.io/tp/)  
+[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-grey?style=for-the-badge)](#)
 
 ### 👕 T-Shirt Store
 - **Description:** A trendy online T-shirt shop with a clean UI/UX design.
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Live Demo:** <a href="https://abde777.github.io/SITE2/1stproject/home.html" target="_blank">View Project</a>
-- **GitHub Repo:** <a href="#" target="_blank">Repo Link</a>
+- **Tech Stack:** HTML, CSS, JavaScript  
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-blue?style=for-the-badge)](https://abde777.github.io/SITE2/1stproject/home.html)  
+[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-grey?style=for-the-badge)](#)
 
 ---
 
