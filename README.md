@@ -1,5 +1,4 @@
-![Banner](https://i.postimg.cc/4N7w5vsQ/abd-el-monim-mazgoura.png)
-
+![Banner](https://postimg.cc/MvwyZQcn)
 # Hi, I'm ABD EL MONIM MAZGOURA! 👋
 
 ## 🌟 Beginner Full-Stack Web Developer
