@@ -66,6 +66,8 @@ I'm a passionate web developer, currently learning **HTML, CSS, JavaScript, MySQ
 ## 📫 Contact Me
 📧 Email: [mazgouraabdalmounim@gmail.com](mailto:mazgouraabdalmounim@gmail.com)  
 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/abd-el-monim-mazgoura-607b71277/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techmo_x/)
+📷 [Instagram](https://www.instagram.com/techmo_x/)
 
 ---
 
