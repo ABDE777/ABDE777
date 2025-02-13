@@ -19,6 +19,7 @@ I'm a passionate web developer, currently learning **HTML, CSS, JavaScript, MySQ
 ### 📚 Currently Learning:
 
 #### 🎨 Frontend:
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://abde777.github.io/MY-LINKTREE/GITHUB.html)
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
