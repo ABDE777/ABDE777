@@ -35,23 +35,11 @@ I'm a passionate web developer, currently learning **HTML, CSS, JavaScript, MySQ
 
 ## 📌 Featured Projects
 
-### 🌐 Portfolio Website
-- **Description:** A personal portfolio showcasing my skills, projects, and contact information.
-- **Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-blue?style=for-the-badge)](https://abde777.github.io/PORTFOLIOO/PORTF%20ABDE/PORTFOLIO.html)  
-[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-grey?style=for-the-badge)](#)
+[!my repositories](https://abde777.github.io/MY-LINKTREE/GITHUB.html)
 
-### 🏆 Luxury Footwear & Apparel Store
-- **Description:** A premium e-commerce website for fashion and footwear.
-- **Tech Stack:** HTML, CSS, JavaScript  
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-blue?style=for-the-badge)](https://abde777.github.io/tp/)  
-[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-grey?style=for-the-badge)](#)
 
-### 👕 T-Shirt Store
-- **Description:** A trendy online T-shirt shop with a clean UI/UX design.
-- **Tech Stack:** HTML, CSS, JavaScript  
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-blue?style=for-the-badge)](https://abde777.github.io/SITE2/1stproject/home.html)  
-[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-grey?style=for-the-badge)](#)
+
+
 
 ---
 
@@ -67,8 +55,6 @@ I'm a passionate web developer, currently learning **HTML, CSS, JavaScript, MySQ
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abde777&layout=compact&theme=tokyonight)
 
 ---
-
-##Here are more fun facts and interests related to developers that you can add to your README:  
 
 ## 🎯 Fun Facts & Interests  
 - ⚽ I love playing football.  
