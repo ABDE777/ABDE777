@@ -19,11 +19,12 @@ I'm a passionate web developer, currently learning **HTML, CSS, JavaScript, MySQ
 ### 📚 Currently Learning:
 
 #### 🎨 Frontend:
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 #### 🖥️ Backend:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🛠️ Version Control & DevOps:
@@ -35,7 +36,7 @@ I'm a passionate web developer, currently learning **HTML, CSS, JavaScript, MySQ
 
 ## 📌 Featured Projects
 
-[!my repositories](https://abde777.github.io/MY-LINKTREE/GITHUB.html)
+[![My Repositories](https://img.shields.io/badge/My%20Repositories-Click%20Here-blue?style=for-the-badge)](https://abde777.github.io/MY-LINKTREE/GITHUB.html)
 
 
 
