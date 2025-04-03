@@ -1,4 +1,3 @@
-generate me  a readm.md file for my profl on github like thiss  one    or better feele free o it  
 # Hi, I'm ABD EL MONIM MAZGOURA! 👋
 
 ## 🌟 Beginner Full-Stack Web Developer
