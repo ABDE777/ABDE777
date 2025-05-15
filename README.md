@@ -59,11 +59,11 @@ Je suis un développeur web passionné, actuellement en train d'apprendre **HTML
 
 ## 📂 Projets en Vedette
 
-| Projet | Description | Pile Technologique |
-|--------|-------------|--------------------|
-| [![Projet 1](https://img.shields.io/badge/🚀_Portfolio-2962FF?style=for-the-badge)](https://abde777.github.io) | Site web de portfolio personnel | HTML, CSS, JS |
-| [![Projet 2](https://img.shields.io/badge/💻_E--Commerce-FF6B6B?style=for-the-badge)](https://github.com/abde777) | Projet e-commerce en PHP | PHP, MySQL |
-| [![Projet 3](https://img.shields.io/badge/📱_Application_Mobile-4CAF50?style=for-the-badge)](https://github.com/abde777) | Application mobile pour la gestion des tâdes | React Native, Node.js |
+| Projet | Description | Pile Technologique | Lien |
+|--------|-------------|--------------------|------|
+| [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-2962FF?style=for-the-badge)](https://abde777.github.io) | Site web de portfolio personnel | HTML, CSS, JS | [Visiter](https://abde777.github.io) |
+| [![E-Commerce](https://img.shields.io/badge/💻_E--Commerce-FF6B6B?style=for-the-badge)](https://github.com/abde777/e-commerce) | Projet e-commerce en PHP | PHP, MySQL | [Code](https://github.com/abde777/e-commerce) |
+| [![App Mobile](https://img.shields.io/badge/📱_Application_Mobile-4CAF50?style=for-the-badge)](https://github.com/abde777/task-manager) | Application mobile pour la gestion des tâches | React Native, Node.js | [Code](https://github.com/abde777/task-manager) |
 
 ---
 
@@ -71,7 +71,7 @@ Je suis un développeur web passionné, actuellement en train d'apprendre **HTML
 
 <div align="center">
 
-![Statistiques GitHub d'Abd](https://github-readme-stats.vercel.app/api?username=abde777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=abde777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true)
 ![Langues Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=abde777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=abde777&theme=radical&hide_border=true)
 
@@ -81,28 +81,35 @@ Je suis un développeur web passionné, actuellement en train d'apprendre **HTML
 
 ## 💡 Faits Amusants sur Moi
 
-- J'adore résoudre des puzzles et des énigmes.
-- Je suis un grand fan de science-fiction et de fantasy.
-- J'aime explorer de nouvelles technologies et les intégrer dans mes projets.
-- J'aime déboguer et résoudre des défis de codage.
-- Je suis toujours avide d'apprendre de nouvelles technologies.
-- J'aime construire des projets qui résolvent des problèmes du monde réel.
-- J'apprécie un bon design UI/UX et un code propre.
-- J'aime collaborer avec des développeurs de différents horizons.
-- J'aime partager mes connaissances en écrivant des articles ou des tutoriels.
+- J'adore résoudre des puzzles et des énigmes
+- Je suis un grand fan de science-fiction et de fantasy
+- J'aime explorer de nouvelles technologies
+- Passionné par le débogage et les défis de codage
+- Toujours avide d'apprendre de nouvelles technologies
+- J'aime créer des projets utiles au monde réel
+- Fan de bon design UI/UX et de code propre
+- J'adore collaborer avec d'autres développeurs
+- J'aime partager mes connaissances via des tutoriels
 
 ---
 
-## 📈 Suivi des Visiteurs et Abonnés
+## 📬 Contactez-moi
 
-![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=abde777.visitor-badge)
-![Abonnés GitHub](https://img.shields.io/github/followers/abde777?label=Suiveurs&style=social)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 ---
 
-## 🚀 Dynamic GitHub Activity
+## ☕ Soutenez mon travail
 
-[![Abd's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abde777&theme=react-dark&hide_border=true&area=true)](https://github.com/abde777)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abde777)
+
+---
+
+## 🚀 Activité GitHub
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abde777&theme=react-dark&hide_border=true&area=true)](https://github.com/abde777)
 
 ---
 
@@ -111,4 +118,5 @@ Je suis un développeur web passionné, actuellement en train d'apprendre **HTML
 > "First, solve the problem. Then, write the code." - John Johnson
 
 ```python
-print("Hello World! 👋")
+print("Bonjour le monde! 👋")
+<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="40" alt="Laravel"/> </div> ```
