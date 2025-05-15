@@ -30,6 +30,8 @@ Je suis un développeur web passionné, en pleine immersion dans les bases essen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40"/>
 </div>
 
 </div>
@@ -40,10 +42,11 @@ Je suis un développeur web passionné, en pleine immersion dans les bases essen
 
 <div align="center" style="margin: 20px 0; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-![React](https://img.shields.io/badge/React-45%25-61DAFB?style=flat&logo=react) - Un outil puissant pour créer des interfaces utilisateur dynamiques.
-![Laravel](https://img.shields.io/badge/Laravel-40%25-FF2D20?style=flat&logo=laravel) - Un framework PHP élégant pour le développement web.
-![TailwindCSS](https://img.shields.io/badge/Tailwind-60%25-38B2AC?style=flat&logo=tailwind-css) - Un framework CSS utilitaire pour un design rapide et efficace.
-![Next JS](https://img.shields.io/badge/Next.js-30%25-000000?style=flat&logo=next.js) - Un framework React pour le rendu côté serveur et les applications statiques.
+![React](https://img.shields.io/badge/React-45%25-61DAFB?style=flat&logo=react) - Un outil puissant pour créer des interfaces utilisateur dynamiques. <br>
+![Laravel](https://img.shields.io/badge/Laravel-40%25-FF2D20?style=flat&logo=laravel) - Un framework PHP élégant pour le développement web.<br>
+![TailwindCSS](https://img.shields.io/badge/Tailwind-60%25-38B2AC?style=flat&logo=tailwind-css) - Un framework CSS utilitaire pour un design rapide et efficace.<br>
+![Next JS](https://img.shields.io/badge/Next.js-30%25-000000?style=flat&logo=next.js) - Un framework React pour le rendu côté serveur et les applications statiques.<br>
+![Node.js](https://img.shields.io/badge/Node.js-50%25-339933?style=flat&logo=node.js) - Un environnement d'exécution JavaScript pour le développement côté serveur.
 
 </div>
 
@@ -67,6 +70,7 @@ Je suis un développeur web passionné, en pleine immersion dans les bases essen
 |--------|-------------|--------------------|
 | [![Projet 1](https://img.shields.io/badge/🚀_Portfolio-2962FF?style=for-the-badge)](https://abde777.github.io) | Site web de portfolio personnel | HTML, CSS, JS |
 | [![Projet 2](https://img.shields.io/badge/💻_E--Commerce-FF6B6B?style=for-the-badge)](https://github.com/abde777) | Projet e-commerce en PHP | PHP, MySQL |
+| [![Projet 3](https://img.shields.io/badge/📱_Application_Mobile-4CAF50?style=for-the-badge)](https://github.com/abde777) | Application mobile pour la gestion des tâches | React Native, Node.js |
 
 </div>
 
@@ -85,3 +89,6 @@ Je suis un développeur web passionné, en pleine immersion dans les bases essen
 ---
 
 ## 💡 Faits Amusants sur Moi
+- J'adore résoudre des puzzles et des énigmes.
+- Je suis un grand fan de science-fiction et de fantasy.
+- J'aime explorer de nouvelles technologies et les intégrer dans mes projets.
