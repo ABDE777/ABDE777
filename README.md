@@ -11,21 +11,21 @@ Je suis un développeur web passionné, actuellement en train d'apprendre **HTML
 <div align="center">
 
 ### 🚀 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" alt="Bootstrap" />
 
 ### ⚙️ Backend
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" alt="PHP" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
 
 ### 🔧 Outils
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub" />
+<img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
 
 </div>
 
@@ -35,11 +35,11 @@ Je suis un développeur web passionné, actuellement en train d'apprendre **HTML
 
 <div align="center" style="margin: 20px 0; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
 
 </div>
 
@@ -93,3 +93,8 @@ Je suis un développeur web passionné, actuellement en train d'apprendre **HTML
 - J'aime partager mes connaissances en écrivant des articles ou des tutoriels.
 
 ---
+
+## 📈 Suivi des Visiteurs et Abonnés
+
+![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=abde777.visitor-badge)
+![Abonnés GitHub](https://img.shields.io/github/followers/abde777?label=Suiveurs&style=social)
