@@ -61,9 +61,11 @@
 ## 🌟 Projets en Vedette
 
 <div align="center" style="margin:20px 0;">
+  
+[![Site Web Du Club Ou Je Suis Membres](https://github-readme-stats.vercel.app/api/pin/?username=abde777\&repo=CLUB-IT-ISFFO\&theme=radical\&show_owner=true)](https://clubitisfo.vercel.app/)
 
-[![Site Web Du Club Ou Je Suis Membres](https://clubitisfo.vercel.app/)
-[![Gestionnaire de Tâches](https://github-readme-stats.vercel.app/api/pin/?username=abde777\&repo=CLUB-IT-ISFFO\&theme=radical\&show_owner=true)](https://clubitisfo.vercel.app/)
+[![Mon Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=abde777\&repo=my-portfolio\&theme=radical\&show_owner=true)](https://abdelmonim-mazgoura.vercel.app/)
+
 
 [![Voir Tous les Projets](https://img.shields.io/badge/VOIR_TOUS_LES_PROJETS-%2300C4CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abde777?tab=repositories)
 [![Mon Portfolio](https://img.shields.io/badge/MON_PORTFOLIO-%23FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://abde777-portfolio.vercel.app)
