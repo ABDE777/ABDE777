@@ -2,11 +2,14 @@
   <img src="1742345453027.jpg?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=👋+Bonjour,+je+suis+ABD+EL+MONIM+MAZGOURA!" alt="Typing SVG" /></h1>
 
 <h3 align="center">💻 Développeur Full-Stack | 🧠 Résolveur de Problèmes | 🚀 Passionné de Technologie</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abde777.abde777" alt="compteur de visiteurs" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abde777.abde777" alt="Compteur de visiteurs" style="margin-right: 10px;" />
+
   <img src="https://img.shields.io/github/last-commit/abde777/abde777?label=Dernière+Mise+à+Jour&style=flat" alt="Dernière Mise à Jour" />
-</p>
+
+</div>
+
 
 
 
