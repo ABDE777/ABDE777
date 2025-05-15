@@ -6,23 +6,31 @@ I'm a passionate web developer currently mastering the fundamentals (**HTML, CSS
 
 ---
 
+## 🚀 Dynamic GitHub Activity
+[![Abd's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abde777&theme=react-dark&hide_border=true&area=true)](https://github.com/abde777)
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-90%25-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-85%25-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-70%25-563D7C?style=flat&logo=bootstrap)
 
 ### ⚙️ Backend
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-80%25-777BB4?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-75%25-4479A1?style=flat&logo=mysql)
 
 ### 🔧 Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"/>
+</div>
 
 </div>
 
@@ -30,22 +38,35 @@ I'm a passionate web developer currently mastering the fundamentals (**HTML, CSS
 
 ## 🚀 Currently Learning
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 20px 0; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-45%25-61DAFB?style=flat&logo=react)
+![Laravel](https://img.shields.io/badge/Laravel-40%25-FF2D20?style=flat&logo=laravel)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-60%25-38B2AC?style=flat&logo=tailwind-css)
+![Next JS](https://img.shields.io/badge/Next.js-30%25-000000?style=flat&logo=next.js)
 
 </div>
 
 ---
 
+## 🏆 GitHub Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=abde777&theme=onedark&margin-w=15&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🔥 Currently Working On
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=MY-LINKTREE&theme=radical)](https://github.com/abde777/MY-LINKTREE)
+
+---
+
 ## 📂 Featured Projects
 
-<div align="center">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
 
-[![Explore My Work](https://img.shields.io/badge/🚀_Explore_My_Repositories-2962FF?style=for-the-badge&logo=github&logoColor=white)](https://abde777.github.io/MY-LINKTREE/GITHUB.html)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [![Project 1](https://img.shields.io/badge/🚀_Portfolio-2962FF?style=for-the-badge)](https://abde777.github.io) | Personal portfolio website | HTML, CSS, JS |
+| [![Project 2](https://img.shields.io/badge/💻_E--Commerce-FF6B6B?style=for-the-badge)](https://github.com/abde777) | PHP e-commerce project | PHP, MySQL |
 
 </div>
 
@@ -53,46 +74,25 @@ I'm a passionate web developer currently mastering the fundamentals (**HTML, CSS
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abde777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abde777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abde777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=abde777&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 📫 Let's Connect
-
-<div align="center" style="margin-top:20px;">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-monim-mazgoura-607b71277/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazgouraabdalmounim@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/techmo_x/)
-
-</div>
+## ✍️ Technical Writing
+[![Dev.to Blog](https://img.shields.io/badge/Read_My_Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abde777)
 
 ---
 
 ## 💡 Fun Facts About Me
 
-<div style="background-color: #0D1117; padding: 15px; border-radius: 10px; margin-top: 20px;">
-
-- 🐛 **Debugging Enthusiast**: I actually enjoy finding and fixing bugs!
-- ⚽ **Football Fan**: Love playing and watching football in my free time
-- 🤝 **Community Oriented**: Regularly participate in charity work
-- 👨‍💻 **Team Player**: Thrive in collaborative coding environments
-- 🌱 **Always Learning**: Currently diving deep into Laravel and React ecosystems
-- 🎨 **UI Appreciator**: Have a keen eye for clean design and intuitive UX
-
-</div>
-
----
-
-<div align="center" style="margin-top: 30px;">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=abde777&color=blueviolet&style=flat-square)
-
-</div>
-
-<h3 align="center">🚀 Let's Build Something Amazing Together! 🚀</h3>
+```python
+print("Hello World! 👋")
+# Debugging enthusiast ⚡ Football lover ⚽
+# Charity volunteer ❤️ Team player 🤝
+# UI/UX appreciator 🎨 Coffee addict ☕
