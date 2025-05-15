@@ -67,7 +67,7 @@
 ## 🌟 Projets en Vedette
 
 <div align="center" style="margin:20px 0;">
-  
+
 [![Site Web Du Club](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=CLUB-IT-ISFFO&theme=radical)](https://clubitisfo.vercel.app/)
 
 [![Mon Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=ABDEL-PORTFOLIO&theme=radical)](https://abdelmonim-mazgoura-portfolio.vercel.app/)
