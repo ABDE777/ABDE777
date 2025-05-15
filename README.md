@@ -63,7 +63,7 @@ Je suis un développeur web passionné, actuellement en train d'apprendre **HTML
 |--------|-------------|--------------------|
 | [![Projet 1](https://img.shields.io/badge/🚀_Portfolio-2962FF?style=for-the-badge)](https://abde777.github.io) | Site web de portfolio personnel | HTML, CSS, JS |
 | [![Projet 2](https://img.shields.io/badge/💻_E--Commerce-FF6B6B?style=for-the-badge)](https://github.com/abde777) | Projet e-commerce en PHP | PHP, MySQL |
-| [![Projet 3](https://img.shields.io/badge/📱_Application_Mobile-4CAF50?style=for-the-badge)](https://github.com/abde777) | Application mobile pour la gestion des tâches | React Native, Node.js |
+| [![Projet 3](https://img.shields.io/badge/📱_Application_Mobile-4CAF50?style=for-the-badge)](https://github.com/abde777) | Application mobile pour la gestion des tâdes | React Native, Node.js |
 
 ---
 
@@ -111,8 +111,4 @@ Je suis un développeur web passionné, actuellement en train d'apprendre **HTML
 > "First, solve the problem. Then, write the code." - John Johnson
 
 ```python
-print("Hello World! 👋")☕ Support My Work
-BuyMeACoffee
-
-<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="40"/> </div> ```
-Tu peux maintenant coller ce code dans ton README.md pour avoir une présentation propre, sans erreurs de structure ni de balises. Si tu veux adapter ou ajouter autre chose, dis-le-moi !
+print("Hello World! 👋")
