@@ -68,13 +68,12 @@
 
 <div align="center" style="margin:20px 0;">
   
-[![Site Web Du Club Ou Je Suis Membres](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=CLUB-IT-ISFFO&theme=radical&show_owner=true)](https://clubitisfo.vercel.app/)
+[![Site Web Du Club](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=CLUB-IT-ISFFO&theme=radical)](https://clubitisfo.vercel.app/)
 
-[![Mon Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=ABDEL-PORTFOLIO&theme=radical&show_owner=true)](https://abdelmonim-mazgoura-portfolio.vercel.app/)
+[![Mon Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=ABDEL-PORTFOLIO&theme=radical)](https://abdelmonim-mazgoura-portfolio.vercel.app/)
 
-
-[![Voir Tous les Projets](https://img.shields.io/badge/VOIR_TOUS_LES_PROJETS-%2300C4CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abde777?tab=repositories)
-[![Mon Portfolio](https://img.shields.io/badge/MON_PORTFOLIO-%23FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://abdelmonim-mazgoura.vercel.app/)
+[![Voir Tous les Projets](https://img.shields.io/badge/-VOIR%20TOUS%20LES%20PROJETS-00C4CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abde777?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/-MON%20PORTFOLIO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://abdelmonim-mazgoura.vercel.app/)
 
 </div>
 
