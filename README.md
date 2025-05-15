@@ -1,125 +1,98 @@
-# 👋 Salut, je suis ABD EL MONIM MAZGOURA !
+# 👋 Hello, I'm ABD EL MONIM MAZGOURA! 
 
-### 🌟 Développeur Web Full-Stack Débutant
+### 🌟 Aspiring Full-Stack Developer | Problem Solver | Tech Enthusiast
 
-Je suis un développeur web passionné, actuellement en train d'apprendre **HTML, CSS, JavaScript, MySQL et PHP**. Au cours de l'année prochaine, je prévois de maîtriser **Laravel, React, UML, Git, GitHub, Tailwind CSS et Next.js**. J'adore **déboguer, résoudre des défis de codage et créer de nouveaux projets**. Mon objectif est de devenir un **développeur web senior**, de travailler sur des projets passionnants et d'élargir mon réseau professionnel !
+I'm a passionate web developer currently mastering the fundamentals (**HTML, CSS, JavaScript, MySQL, PHP**) while expanding my skillset to include modern frameworks and tools. My goal is to become a **senior web developer** through continuous learning and hands-on projects.
 
 ---
 
-## 🚀 Technologies & Outils
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🚀 Frontend  
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" alt="Bootstrap" />
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend  
-<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" alt="PHP" />
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 Outils  
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub" />
-<img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+### 🔧 Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Technologies que je prévois d'apprendre
+## 🚀 Currently Learning
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
 
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-
-</div>
-
----
-
-## 🏆 Mes Réalisations GitHub
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abde777&theme=onedark&margin-w=15&row=2)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🔥 Projets Actuels
-
-[![Carte Readme](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=MY-LINKTREE&theme=radical)](https://github.com/abde777/MY-LINKTREE)
-
----
-
-## 📂 Projets en Vedette
-
-| Projet | Description | Pile Technologique | Lien |
-|--------|-------------|--------------------|------|
-| [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-2962FF?style=for-the-badge)](https://abde777.github.io) | Site web de portfolio personnel | HTML, CSS, JS | [Visiter](https://abde777.github.io) |
-| [![E-Commerce](https://img.shields.io/badge/💻_E--Commerce-FF6B6B?style=for-the-badge)](https://github.com/abde777/e-commerce) | Projet e-commerce en PHP | PHP, MySQL | [Code](https://github.com/abde777/e-commerce) |
-| [![App Mobile](https://img.shields.io/badge/📱_Application_Mobile-4CAF50?style=for-the-badge)](https://github.com/abde777/task-manager) | Application mobile pour la gestion des tâches | React Native, Node.js | [Code](https://github.com/abde777/task-manager) |
-
----
-
-## 📊 Mes Statistiques GitHub
-
-<div align="center">
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=abde777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true)
-![Langues Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=abde777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-![GitHub Streak](https://streak-stats.demolab.com/?user=abde777&theme=radical&hide_border=true)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 </div>
 
 ---
 
-## 💡 Faits Amusants sur Moi
+## 📂 Featured Projects
 
-- J'adore résoudre des puzzles et des énigmes
-- Je suis un grand fan de science-fiction et de fantasy
-- J'aime explorer de nouvelles technologies
-- Passionné par le débogage et les défis de codage
-- Toujours avide d'apprendre de nouvelles technologies
-- J'aime créer des projets utiles au monde réel
-- Fan de bon design UI/UX et de code propre
-- J'adore collaborer avec d'autres développeurs
-- J'aime partager mes connaissances via des tutoriels
-
----
-
-## 📬 Contactez-moi
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
----
-
-## ☕ Soutenez mon travail
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abde777)
-
----
-
-## 🚀 Activité GitHub
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abde777&theme=react-dark&hide_border=true&area=true)](https://github.com/abde777)
-
----
-
-## 💬 Citation du jour
-
-> "First, solve the problem. Then, write the code." - John Johnson
-
-```python```
-print("Bonjour le monde! 👋")
 <div align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="40" alt="Laravel"/> </div> 
+
+[![Explore My Work](https://img.shields.io/badge/🚀_Explore_My_Repositories-2962FF?style=for-the-badge&logo=github&logoColor=white)](https://abde777.github.io/MY-LINKTREE/GITHUB.html)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abde777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abde777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center" style="margin-top:20px;">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-monim-mazgoura-607b71277/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazgouraabdalmounim@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/techmo_x/)
+
+</div>
+
+---
+
+## 💡 Fun Facts About Me
+
+<div style="background-color: #0D1117; padding: 15px; border-radius: 10px; margin-top: 20px;">
+
+- 🐛 **Debugging Enthusiast**: I actually enjoy finding and fixing bugs!
+- ⚽ **Football Fan**: Love playing and watching football in my free time
+- 🤝 **Community Oriented**: Regularly participate in charity work
+- 👨‍💻 **Team Player**: Thrive in collaborative coding environments
+- 🌱 **Always Learning**: Currently diving deep into Laravel and React ecosystems
+- 🎨 **UI Appreciator**: Have a keen eye for clean design and intuitive UX
+
+</div>
+
+---
+
+<div align="center" style="margin-top: 30px;">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=abde777&color=blueviolet&style=flat-square)
+
+</div>
+
+<h3 align="center">🚀 Let's Build Something Amazing Together! 🚀</h3>
