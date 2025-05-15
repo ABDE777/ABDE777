@@ -1,38 +1,31 @@
 # 👋 Salut, je suis ABD EL MONIM MAZGOURA !
 
-### 🌟 Futur Développeur Full-Stack | Résolveur de Problèmes Créatif | Enthousiaste de la Technologie
+### 🌟 Développeur Web Full-Stack Débutant
 
-Je suis un développeur web passionné, en pleine immersion dans les bases essentielles (**HTML, CSS, JavaScript, MySQL, PHP**) tout en élargissant mes horizons avec des frameworks et outils modernes. Mon ambition est de devenir un **développeur web senior** grâce à un apprentissage continu et des projets concrets.
-
----
-
-## 🚀 Mon Activité GitHub en Ébullition
-[![Graphique d'Activité GitHub d'Abd](https://github-readme-activity-graph.vercel.app/graph?username=abde777&theme=react-dark&hide_border=true&area=true)](https://github.com/abde777)
+Je suis un développeur web passionné, actuellement en train d'apprendre **HTML, CSS, JavaScript, MySQL et PHP**. Au cours de l'année prochaine, je prévois de maîtriser **Laravel, React, UML, Git, GitHub, Tailwind CSS et Next.js**. J'adore **déboguer, résoudre des défis de codage et créer de nouveaux projets**. Mon objectif est de devenir un **développeur web senior**, de travailler sur des projets passionnants et d'élargir mon réseau professionnel !
 
 ---
 
-## 🛠️ Ma Pile Technologique
+## 🚀 Technologies & Outils
 
 <div align="center">
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML-90%25-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-85%25-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-70%25-563D7C?style=flat&logo=bootstrap)
+### 🚀 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
 ### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-80%25-777BB4?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-75%25-4479A1?style=flat&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔧 Outils
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40"/>
-</div>
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -42,11 +35,11 @@ Je suis un développeur web passionné, en pleine immersion dans les bases essen
 
 <div align="center" style="margin: 20px 0; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-![React](https://img.shields.io/badge/React-45%25-61DAFB?style=flat&logo=react) - Un outil puissant pour créer des interfaces utilisateur dynamiques. <br>
-![Laravel](https://img.shields.io/badge/Laravel-40%25-FF2D20?style=flat&logo=laravel) - Un framework PHP élégant pour le développement web.<br>
-![TailwindCSS](https://img.shields.io/badge/Tailwind-60%25-38B2AC?style=flat&logo=tailwind-css) - Un framework CSS utilitaire pour un design rapide et efficace.<br>
-![Next JS](https://img.shields.io/badge/Next.js-30%25-000000?style=flat&logo=next.js) - Un framework React pour le rendu côté serveur et les applications statiques.<br>
-![Node.js](https://img.shields.io/badge/Node.js-50%25-339933?style=flat&logo=node.js) - Un environnement d'exécution JavaScript pour le développement côté serveur.
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
@@ -92,3 +85,11 @@ Je suis un développeur web passionné, en pleine immersion dans les bases essen
 - J'adore résoudre des puzzles et des énigmes.
 - Je suis un grand fan de science-fiction et de fantasy.
 - J'aime explorer de nouvelles technologies et les intégrer dans mes projets.
+- J'aime déboguer et résoudre des défis de codage.
+- Je suis toujours avide d'apprendre de nouvelles technologies.
+- J'aime construire des projets qui résolvent des problèmes du monde réel.
+- J'apprécie un bon design UI/UX et un code propre.
+- J'aime collaborer avec des développeurs de différents horizons.
+- J'aime partager mes connaissances en écrivant des articles ou des tutoriels.
+
+---
