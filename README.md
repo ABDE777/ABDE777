@@ -1,79 +1,98 @@
-# Hi, I'm ABD EL MONIM MAZGOURA! 👋
+# 👋 Hello, I'm ABD EL MONIM MAZGOURA! 
 
-## 🌟 Beginner Full-Stack Web Developer
+### 🌟 Aspiring Full-Stack Developer | Problem Solver | Tech Enthusiast
 
-I'm a passionate web developer, currently learning **HTML, CSS, JavaScript, MySQL, and PHP**. Over the next  year, I plan to master **Laravel, React, UML, Git, GitHub, Tailwind CSS, and Next.js**. I love **debugging, solving coding challenges, and creating new projects**. My goal is to become a **senior web developer**, work on exciting projects, and expand my professional network!
-
----
-
-## 🚀 Technologies & Tools
-
-### 🚀 Frontend:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+I'm a passionate web developer currently mastering the fundamentals (**HTML, CSS, JavaScript, MySQL, PHP**) while expanding my skillset to include modern frameworks and tools. My goal is to become a **senior web developer** through continuous learning and hands-on projects.
 
 ---
 
-### 📚 Currently Learning:
+## 🛠️ Tech Stack
 
-#### 🎨 Frontend:
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://abde777.github.io/MY-LINKTREE/GITHUB.html)
+<div align="center">
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### 🖥️ Backend:
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🛠️ Version Control & DevOps:
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+### 🔧 Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
----
-
-## 📌 Featured Projects
-
-[![My Repositories](https://img.shields.io/badge/My%20Repositories-Click%20Here-blue?style=for-the-badge)](https://abde777.github.io/MY-LINKTREE/GITHUB.html)
-
-
-
-
+</div>
 
 ---
 
-## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-monim-mazgoura-607b71277/)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazgouraabdalmounim@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techmo_x/)
+## 🚀 Currently Learning
+
+<div align="center" style="margin: 20px 0;">
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abde777&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abde777&layout=compact&theme=tokyonight)
+## 📂 Featured Projects
+
+<div align="center">
+
+[![Explore My Work](https://img.shields.io/badge/🚀_Explore_My_Repositories-2962FF?style=for-the-badge&logo=github&logoColor=white)](https://abde777.github.io/MY-LINKTREE/GITHUB.html)
+
+</div>
 
 ---
 
-## 🎯 Fun Facts & Interests  
-- ⚽ I love playing football.  
-- 🤝 I enjoy helping in charity work.  
-- 👨‍💻 I thrive in team-based projects.  
-- 🐛 I enjoy debugging and solving coding challenges.  
-- 📚 I'm always eager to learn new technologies.  
-- 🚀 I love building projects that solve real-world problems.  
-- 🎨 I appreciate good UI/UX design and clean code.  
-- 🌍 I enjoy collaborating with developers from different backgrounds.  
-- ✍️ I like sharing knowledge by writing articles or tutorials.  
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abde777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abde777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+</div>
 
 ---
 
-## 👀 Profile Visitors
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abde777)
+## 📫 Let's Connect
+
+<div align="center" style="margin-top:20px;">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-monim-mazgoura-607b71277/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazgouraabdalmounim@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/techmo_x/)
+
+</div>
 
 ---
 
-### 🚀 Let's Connect & Code Together! 🚀
+## 💡 Fun Facts About Me
+
+<div style="background-color: #0D1117; padding: 15px; border-radius: 10px; margin-top: 20px;">
+
+- 🐛 **Debugging Enthusiast**: I actually enjoy finding and fixing bugs!
+- ⚽ **Football Fan**: Love playing and watching football in my free time
+- 🤝 **Community Oriented**: Regularly participate in charity work
+- 👨‍💻 **Team Player**: Thrive in collaborative coding environments
+- 🌱 **Always Learning**: Currently diving deep into Laravel and React ecosystems
+- 🎨 **UI Appreciator**: Have a keen eye for clean design and intuitive UX
+
+</div>
+
+---
+
+<div align="center" style="margin-top: 30px;">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=abde777&color=blueviolet&style=flat-square)
+
+</div>
+
+<h3 align="center">🚀 Let's Build Something Amazing Together! 🚀</h3>
