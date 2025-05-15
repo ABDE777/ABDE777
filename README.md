@@ -6,9 +6,10 @@
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abde777.abde777" alt="Compteur de visiteurs" style="margin-right: 10px;" />
 
-  <img src="https://img.shields.io/github/last-commit/abde777/abde777?label=Dernière+Mise+à+Jour&style=flat" alt="Dernière Mise à Jour" />
+  <img src="https://img.shields.io/github/last-commit/abde777/abde777?label=Derni%C3%A8re+Mise+%C3%A0+Jour&style=flat" alt="Dernière Mise à Jour" />
 
 </div>
+
 
 
 
