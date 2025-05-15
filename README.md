@@ -42,11 +42,24 @@ Passionate about crafting elegant web solutions from front to back. Currently ma
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abde777&theme=radical&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 🌟 Featured Projects
 
 <div align="center" style="margin: 20px 0;">
 
-[![View My Work](https://img.shields.io/badge/VIEW_MY_PROJECTS-%2300C4CC?style=for-the-badge&logo=github&logoColor=white)](https://abde777.github.io/MY-LINKTREE/GITHUB.html)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=REPO_NAME&theme=radical)](https://github.com/abde777/REPO_NAME)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=REPO_NAME&theme=radical)](https://github.com/abde777/REPO_NAME)
+
+[![View My Work](https://img.shields.io/badge/VIEW_ALL_PROJECTS-%2300C4CC?style=for-the-badge&logo=github&logoColor=white)](https://abde777.github.io/MY-LINKTREE/GITHUB.html)
 [![Portfolio](https://img.shields.io/badge/MY_PORTFOLIO-%23FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
 
 </div>
@@ -85,7 +98,7 @@ Passionate about crafting elegant web solutions from front to back. Currently ma
 
 <div style="background: linear-gradient(135deg, #0D1117 0%, #1A2238 100%); padding: 15px; border-radius: 10px; margin-top: 20px;">
 
-- � **Debugging Zen**: I find satisfaction in solving complex bugs (yes, really!)
+- 🐞 **Debugging Zen**: I find satisfaction in solving complex bugs (yes, really!)
 - ⚽ **Football Fanatic**: Weekend warrior on the pitch and passionate spectator
 - 🤲 **Community Builder**: Active in local tech meetups and charity initiatives
 - 🎨 **Design Thinker**: Believe beautiful UI is as important as solid functionality
@@ -93,6 +106,12 @@ Passionate about crafting elegant web solutions from front to back. Currently ma
 - ☕ **Coffee Connoisseur**: Can debate brew methods as passionately as frameworks
 
 </div>
+
+---
+
+## 💭 Developer Philosophy
+
+> "Clean code is not just about making it work - it's about making it right for the next developer who touches it."
 
 ---
 
