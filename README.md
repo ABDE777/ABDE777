@@ -62,7 +62,7 @@
 
 <div align="center" style="margin:20px 0;">
 
-[![Plateforme E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=ecommerce-platform&theme=radical&show_owner=true)](https://github.com/abde777/ecommerce-platform)
+[![Site Web Du Club Ou Je Suis Membres](https://clubitisfo.vercel.app/)
 [![Gestionnaire de Tâches](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=task-manager&theme=radical&show_owner=true)](https://github.com/abde777/task-manager)
 
 [![Voir Tous les Projets](https://img.shields.io/badge/VOIR_TOUS_LES_PROJETS-%2300C4CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abde777?tab=repositories)
