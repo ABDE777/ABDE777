@@ -63,17 +63,21 @@
 </div>
 
 ---
-
 ## 🌟 Projets en Vedette
 
 <div align="center" style="margin:20px 0;">
 
-[![Site Web Du Club](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=CLUB-IT-ISFFO&theme=radical)](https://clubitisfo.vercel.app/)
+<!-- Solution 1: Direct Shields.io badges (no API) -->
+[![Club Website](https://img.shields.io/badge/SITE_WEB_DU_CLUB-LIVE-9cf?style=flat&logo=vercel)](https://clubitisfo.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/MON_PORTFOLIO-LIVE-ff69b4?style=flat&logo=vercel)](https://abdelmonim-mazgoura-portfolio.vercel.app/)
 
-[![Mon Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=ABDEL-PORTFOLIO&theme=radical)](https://abdelmonim-mazgoura-portfolio.vercel.app/)
+<!-- Solution 2: GitHub-native badges -->
+[![CLUB-IT-ISFFO](https://badgen.net/github/stars/abde777/CLUB-IT-ISFFO?label=CLUB-IT-ISFFO)](https://github.com/abde777/CLUB-IT-ISFFO)
+[![ABDEL-PORTFOLIO](https://badgen.net/github/last-commit/abde777/ABDEL-PORTFOLIO?label=PORTFOLIO)](https://github.com/abde777/ABDEL-PORTFOLIO)
 
-[![Voir Tous les Projets](https://img.shields.io/badge/-VOIR%20TOUS%20LES%20PROJETS-00C4CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abde777?tab=repositories)
-[![Portfolio](https://img.shields.io/badge/-MON%20PORTFOLIO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://abdelmonim-mazgoura.vercel.app/)
+<!-- Buttons -->
+[![Tous les Projets](https://img.shields.io/badge/🔎_VOIR_TOUS_LES_PROJETS-00C4CC?style=for-the-badge)](https://github.com/abde777?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/🚀_MON_PORTFOLIO-FF6B6B?style=for-the-badge)](https://abdelmonim-mazgoura.vercel.app/)
 
 </div>
 
