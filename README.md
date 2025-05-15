@@ -1,17 +1,17 @@
-# 👋 Hello, I'm ABD EL MONIM MAZGOURA! 
+# 👋 Salut, je suis ABD EL MONIM MAZGOURA !
 
-### 🌟 Aspiring Full-Stack Developer | Problem Solver | Tech Enthusiast
+### 🌟 Futur Développeur Full-Stack | Résolveur de Problèmes Créatif | Enthousiaste de la Technologie
 
-I'm a passionate web developer currently mastering the fundamentals (**HTML, CSS, JavaScript, MySQL, PHP**) while expanding my skillset to include modern frameworks and tools. My goal is to become a **senior web developer** through continuous learning and hands-on projects.
-
----
-
-## 🚀 Dynamic GitHub Activity
-[![Abd's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abde777&theme=react-dark&hide_border=true&area=true)](https://github.com/abde777)
+Je suis un développeur web passionné, en pleine immersion dans les bases essentielles (**HTML, CSS, JavaScript, MySQL, PHP**) tout en élargissant mes horizons avec des frameworks et outils modernes. Mon ambition est de devenir un **développeur web senior** grâce à un apprentissage continu et des projets concrets.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Mon Activité GitHub en Ébullition
+[![Graphique d'Activité GitHub d'Abd](https://github-readme-activity-graph.vercel.app/graph?username=abde777&theme=react-dark&hide_border=true&area=true)](https://github.com/abde777)
+
+---
+
+## 🛠️ Ma Pile Technologique
 
 <div align="center">
 
@@ -25,7 +25,7 @@ I'm a passionate web developer currently mastering the fundamentals (**HTML, CSS
 ![PHP](https://img.shields.io/badge/PHP-80%25-777BB4?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-75%25-4479A1?style=flat&logo=mysql)
 
-### 🔧 Tools
+### 🔧 Outils
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
@@ -36,77 +36,52 @@ I'm a passionate web developer currently mastering the fundamentals (**HTML, CSS
 
 ---
 
-## 🚀 Technologies que je souhaite apprendre à l'avenir
+## 🚀 Technologies que je Prévoyais d'Apprendre
 
 <div align="center" style="margin: 20px 0; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-![React](https://img.shields.io/badge/React-45%25-61DAFB?style=flat&logo=react)
-![Laravel](https://img.shields.io/badge/Laravel-40%25-FF2D20?style=flat&logo=laravel)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-60%25-38B2AC?style=flat&logo=tailwind-css)
-![Next JS](https://img.shields.io/badge/Next.js-30%25-000000?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/React-45%25-61DAFB?style=flat&logo=react) - Un outil puissant pour créer des interfaces utilisateur dynamiques.
+![Laravel](https://img.shields.io/badge/Laravel-40%25-FF2D20?style=flat&logo=laravel) - Un framework PHP élégant pour le développement web.
+![TailwindCSS](https://img.shields.io/badge/Tailwind-60%25-38B2AC?style=flat&logo=tailwind-css) - Un framework CSS utilitaire pour un design rapide et efficace.
+![Next JS](https://img.shields.io/badge/Next.js-30%25-000000?style=flat&logo=next.js) - Un framework React pour le rendu côté serveur et les applications statiques.
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Mes Réalisations GitHub
 [![trophy](https://github-profile-trophy.vercel.app/?username=abde777&theme=onedark&margin-w=15&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🔥 Currently Working On
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=MY-LINKTREE&theme=radical)](https://github.com/abde777/MY-LINKTREE)
+## 🔥 Projets Actuels
+[![Carte Readme](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=MY-LINKTREE&theme=radical)](https://github.com/abde777/MY-LINKTREE)
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projets en Vedette
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [![Project 1](https://img.shields.io/badge/🚀_Portfolio-2962FF?style=for-the-badge)](https://abde777.github.io) | Personal portfolio website | HTML, CSS, JS |
-| [![Project 2](https://img.shields.io/badge/💻_E--Commerce-FF6B6B?style=for-the-badge)](https://github.com/abde777) | PHP e-commerce project | PHP, MySQL |
+| Projet | Description | Pile Technologique |
+|--------|-------------|--------------------|
+| [![Projet 1](https://img.shields.io/badge/🚀_Portfolio-2962FF?style=for-the-badge)](https://abde777.github.io) | Site web de portfolio personnel | HTML, CSS, JS |
+| [![Projet 2](https://img.shields.io/badge/💻_E--Commerce-FF6B6B?style=for-the-badge)](https://github.com/abde777) | Projet e-commerce en PHP | PHP, MySQL |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Mes Statistiques GitHub
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abde777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abde777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Statistiques GitHub d'Abd](https://github-readme-stats.vercel.app/api?username=abde777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true)
+![Langues Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=abde777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=abde777&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 💡 Fun Facts About Me
-
-print("Hello World! 👋")
-
-
----
-
-## 📫 Let's Connect
-
-<div align="center" style="margin-top:20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abd-el-monim-mazgoura)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelmonimmazgoura@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abde777)
-
-</div>
-
-<div align="center" style="margin: 30px 0;">
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abde777.abde777)
-[![GitHub followers](https://img.shields.io/github/followers/abde777?label=Follow&style=social)](https://github.com/abde777)
-
-</div>
-
-<h2 align="center">🚀 Let's Build Something Amazing Together! 🚀</h2>
-
+## 💡 Faits Amusants sur Moi
