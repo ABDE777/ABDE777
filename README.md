@@ -1,34 +1,37 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=👋+Hello,+I'm+ABD+EL+MONIM+MAZGOURA!" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=👋+Bonjour,+je+suis+ABD+EL+MONIM+MAZGOURA!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">💻 Full-Stack Developer | 🧠 Problem Solver | 🚀 Tech Enthusiast</h3>
+<h3 align="center">💻 Développeur Full-Stack | 🧠 Résolveur de Problèmes | 🚀 Passionné de Technologie</h3>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abde777.abde777" alt="visitor count"/>
-  <img src="https://img.shields.io/github/last-commit/abde777/abde777?label=Last+Updated&style=flat" alt="Last Updated">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abde777.abde777" alt="compteur de visiteurs"/>
+  <img src="https://img.shields.io/github/last-commit/abde777/abde777?label=Dernière+Mise+à+Jour&style=flat" alt="Dernière Mise à Jour">
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Pile Technologique
 
 <div align="center">
 
 ### 🌐 Frontend
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nextjs)
+
+![Mes Compétences](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nextjs)
 
 ### 🖥️ Backend
-![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,express)
 
-### 🔧 Tools & DevOps
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,aws,figma)
+![Mes Compétences](https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,express)
+
+### 🔧 Outils & DevOps
+
+![Mes Compétences](https://skillicons.dev/icons?i=git,github,vscode,docker,aws,figma)
 
 </div>
 
 ---
 
-## 🚀 Currently Mastering
+## 🚀 Actuellement en Maîtrise
 
 <div align="center" style="margin:15px 0;">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
@@ -38,84 +41,73 @@
 
 ---
 
-## 🏆 GitHub Trophies & Stats
+## 🏆 Trophées & Statistiques GitHub
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abde777&theme=radical&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophée](https://github-profile-trophy.vercel.app/?username=abde777&theme=radical&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abde777&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=abde777&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abde777&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Langues Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=abde777&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=abde777&theme=radical)
+![Statistiques de Série](https://github-readme-streak-stats.herokuapp.com/?user=abde777&theme=radical)
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Projets en Vedette
 
 <div align="center" style="margin:20px 0;">
 
-[![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=ecommerce-platform&theme=radical&show_owner=true)](https://github.com/abde777/ecommerce-platform)
-[![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=task-manager&theme=radical&show_owner=true)](https://github.com/abde777/task-manager)
+[![Plateforme E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=ecommerce-platform&theme=radical&show_owner=true)](https://github.com/abde777/ecommerce-platform)
+[![Gestionnaire de Tâches](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=task-manager&theme=radical&show_owner=true)](https://github.com/abde777/task-manager)
 
-[![View All Projects](https://img.shields.io/badge/VIEW_ALL_PROJECTS-%2300C4CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abde777?tab=repositories)
-[![My Portfolio](https://img.shields.io/badge/MY_PORTFOLIO-%23FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://abde777-portfolio.vercel.app)
+[![Voir Tous les Projets](https://img.shields.io/badge/VOIR_TOUS_LES_PROJETS-%2300C4CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abde777?tab=repositories)
+[![Mon Portfolio](https://img.shields.io/badge/MON_PORTFOLIO-%23FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://abde777-portfolio.vercel.app)
 
 </div>
 
 ---
 
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [10 React Performance Optimization Techniques](https://dev.to/abde777/react-optimization)
-- [Building Scalable PHP Applications](https://dev.to/abde777/php-scalability)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📬 Let's Connect
+## 📬 Connectons-Nous
 
 <div align="center" style="margin-top:20px;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
 ---
 
-## 🎯 Beyond Code
+## 🎯 Au-Delà du Code
 
 <div style="background: linear-gradient(135deg, #0D1117 0%, #1A2238 100%); padding: 15px; border-radius: 10px; margin-top: 20px;">
 
-- 🐞 **Debugging Zen**: I find satisfaction in solving complex bugs
-- ⚽ **Football Fanatic**: Weekend warrior on the pitch
-- 🤲 **Community Builder**: Active in tech meetups and charities
-- 🎨 **Design Thinker**: UI/UX matters as much as functionality
-- 🌱 **Always Learning**: Currently diving deep into system design
-- ☕ **Coffee Connoisseur**: Particular about my brew methods
+- 🐞 **Zen du Débogage**: Je trouve satisfaction à résoudre des bugs complexes
+- ⚽ **Fanatique de Football**: Guerrier du week-end sur le terrain
+- 🤲 **Bâtisseur de Communauté**: Actif dans les rencontres tech et les œuvres de charité
+- 🎨 **Penseur en Design**: L'UI/UX compte autant que la fonctionnalité
+- 🌱 **Toujours en Apprentissage**: Actuellement plongé dans la conception de systèmes
+- ☕ **Connaisseur de Café**: Particulier sur mes méthodes de préparation
 
 </div>
 
 ---
 
-## 💭 Developer Philosophy
+## 💭 Philosophie du Développeur
 
-> "Code is poetry when it's clean, documented, and maintainable.  
-> The best solutions emerge through collaboration and iteration."
+> "Le code est une poésie quand il est propre, documenté et maintenable.  
+> Les meilleures solutions émergent par la collaboration et l'itération."
 
 ---
 
 <div align="center" style="margin:30px 0;">
 
-## 🚀 Ready to Collaborate on Something Amazing?
+## 🚀 Prêt à Collaborer sur Quelque Chose d'Incroyable?
 
-[![Contact Me](https://img.shields.io/badge/Contact_Me-%2358A6FF?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:your@email.com)
+[![Contactez-Moi](https://img.shields.io/badge/Contactez_Moi-%2358A6FF?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:your@email.com)
 
 </div>
