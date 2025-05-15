@@ -68,7 +68,7 @@
 
 
 [![Voir Tous les Projets](https://img.shields.io/badge/VOIR_TOUS_LES_PROJETS-%2300C4CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abde777?tab=repositories)
-[![Mon Portfolio](https://img.shields.io/badge/MON_PORTFOLIO-%23FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://abde777-portfolio.vercel.app)
+[![Mon Portfolio](https://img.shields.io/badge/MON_PORTFOLIO-%23FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](abdelmonim-mazgoura.vercel.app/)
 
 </div>
 
@@ -78,8 +78,8 @@
 
 <div align="center" style="margin-top:20px;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-monim-mazgoura-webfullstack/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazgouraabdalmounim@email.com)
 
 </div>
 
@@ -92,9 +92,7 @@
 - 🐞 **Zen du Débogage**: Je trouve satisfaction à résoudre des bugs complexes
 - ⚽ **Fanatique de Football**: Guerrier du week-end sur le terrain
 - 🤲 **Bâtisseur de Communauté**: Actif dans les rencontres tech et les œuvres de charité
-- 🎨 **Penseur en Design**: L'UI/UX compte autant que la fonctionnalité
 - 🌱 **Toujours en Apprentissage**: Actuellement plongé dans la conception de systèmes
-- ☕ **Connaisseur de Café**: Particulier sur mes méthodes de préparation
 
 </div>
 
@@ -111,6 +109,6 @@
 
 ## 🚀 Prêt à Collaborer sur Quelque Chose d'Incroyable?
 
-[![Contactez-Moi](https://img.shields.io/badge/Contactez_Moi-%2358A6FF?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:your@email.com)
+[![Contactez-Moi](https://img.shields.io/badge/Contactez_Moi-%2358A6FF?style=for-the-badge&logo=mail.ru&logoColor=white)](mazgouraabdalmounim:your@email.com)
 
 </div>
