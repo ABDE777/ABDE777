@@ -36,7 +36,7 @@ I'm a passionate web developer currently mastering the fundamentals (**HTML, CSS
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Technologies que je souhaite apprendre à l'avenir
 
 <div align="center" style="margin: 20px 0; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
@@ -84,19 +84,10 @@ I'm a passionate web developer currently mastering the fundamentals (**HTML, CSS
 
 ---
 
-## ✍️ Technical Writing
-[![Dev.to Blog](https://img.shields.io/badge/Read_My_Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abde777)
-
----
-
 ## 💡 Fun Facts About Me
 
-```python
 print("Hello World! 👋")
-# Debugging enthusiast ⚡ Football lover ⚽
-# Charity volunteer ❤️ Team player 🤝
-# UI/UX appreciator 🎨 Coffee addict ☕
-```
+
 
 ---
 
@@ -105,9 +96,7 @@ print("Hello World! 👋")
 <div align="center" style="margin-top:20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abd-el-monim-mazgoura)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbdMazgoura)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelmonimmazgoura@gmail.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abde777)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abde777)
 
 </div>
@@ -121,10 +110,3 @@ print("Hello World! 👋")
 
 <h2 align="center">🚀 Let's Build Something Amazing Together! 🚀</h2>
 
-<!--
-Profile README inspiration:
-- Added social media connection buttons with badges
-- Included visitor counter and follower button
-- Maintained consistent styling throughout
-- Enhanced section organization for better readability
--->
