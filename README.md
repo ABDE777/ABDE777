@@ -10,17 +10,17 @@ Je suis un développeur web passionné, actuellement en train d'apprendre **HTML
 
 <div align="center">
 
-### 🚀 Frontend
+### 🚀 Frontend  
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" alt="Bootstrap" />
 
-### ⚙️ Backend
+### ⚙️ Backend  
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" alt="PHP" />
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
 
-### 🔧 Outils
+### 🔧 Outils  
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub" />
 <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />
@@ -31,9 +31,9 @@ Je suis un développeur web passionné, actuellement en train d'apprendre **HTML
 
 ---
 
-## 🚀 Technologies que je Prévoyais d'Apprendre
+## 🚀 Technologies que je prévois d'apprendre
 
-<div align="center" style="margin: 20px 0; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div align="center">
 
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
 <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
@@ -46,18 +46,18 @@ Je suis un développeur web passionné, actuellement en train d'apprendre **HTML
 ---
 
 ## 🏆 Mes Réalisations GitHub
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=abde777&theme=onedark&margin-w=15&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 🔥 Projets Actuels
+
 [![Carte Readme](https://github-readme-stats.vercel.app/api/pin/?username=abde777&repo=MY-LINKTREE&theme=radical)](https://github.com/abde777/MY-LINKTREE)
 
 ---
 
 ## 📂 Projets en Vedette
-
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
 
 | Projet | Description | Pile Technologique |
 |--------|-------------|--------------------|
@@ -65,13 +65,11 @@ Je suis un développeur web passionné, actuellement en train d'apprendre **HTML
 | [![Projet 2](https://img.shields.io/badge/💻_E--Commerce-FF6B6B?style=for-the-badge)](https://github.com/abde777) | Projet e-commerce en PHP | PHP, MySQL |
 | [![Projet 3](https://img.shields.io/badge/📱_Application_Mobile-4CAF50?style=for-the-badge)](https://github.com/abde777) | Application mobile pour la gestion des tâches | React Native, Node.js |
 
-</div>
-
 ---
 
 ## 📊 Mes Statistiques GitHub
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center">
 
 ![Statistiques GitHub d'Abd](https://github-readme-stats.vercel.app/api?username=abde777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true)
 ![Langues Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=abde777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
@@ -82,6 +80,7 @@ Je suis un développeur web passionné, actuellement en train d'apprendre **HTML
 ---
 
 ## 💡 Faits Amusants sur Moi
+
 - J'adore résoudre des puzzles et des énigmes.
 - Je suis un grand fan de science-fiction et de fantasy.
 - J'aime explorer de nouvelles technologies et les intégrer dans mes projets.
@@ -98,3 +97,22 @@ Je suis un développeur web passionné, actuellement en train d'apprendre **HTML
 
 ![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=abde777.visitor-badge)
 ![Abonnés GitHub](https://img.shields.io/github/followers/abde777?label=Suiveurs&style=social)
+
+---
+
+## 🚀 Dynamic GitHub Activity
+
+[![Abd's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abde777&theme=react-dark&hide_border=true&area=true)](https://github.com/abde777)
+
+---
+
+## 💬 Citation du jour
+
+> "First, solve the problem. Then, write the code." - John Johnson
+
+```python
+print("Hello World! 👋")☕ Support My Work
+BuyMeACoffee
+
+<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="40"/> </div> ```
+Tu peux maintenant coller ce code dans ton README.md pour avoir une présentation propre, sans erreurs de structure ni de balises. Si tu veux adapter ou ajouter autre chose, dis-le-moi !
