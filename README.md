@@ -3,13 +3,11 @@
 
 <h3 align="center">💻 Développeur Full-Stack | 🧠 Résolveur de Problèmes | 🚀 Passionné de Technologie</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abde777.abde777" alt="compteur de visiteurs" />
+  <img src="https://img.shields.io/github/last-commit/abde777/abde777?label=Dernière+Mise+à+Jour&style=flat" alt="Dernière Mise à Jour" />
+</p>
 
-![Compteur de visiteurs](https://visitor-badge.laobi.icu/badge?page_id=abde777.abde777)
-  
-![Dernière Mise à Jour](https://img.shields.io/github/last-commit/abde777/abde777?label=Dernière+Mise+à+Jour&style=flat)
-
-</div>
 
 
 ---
