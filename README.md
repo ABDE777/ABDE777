@@ -5,7 +5,8 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abde777.abde777" alt="compteur de visiteurs"/>
-  <img src="https://img.shields.io/github/last-commit/abde777/abde777?label=Dernière+Mise+à+Jour&style=flat" alt="Dernière Mise à Jour">
+<img src="https://img.shields.io/github/last-commit/abde777/abde777?label=Dernière+Mise+à+Jour&style=flat" alt="Dernière Mise à Jour" />
+
 </p>
 
 ---
