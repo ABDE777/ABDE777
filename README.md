@@ -21,11 +21,11 @@
 
 ### 🖥️ Backend
 
-![Mes Compétences](https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,express)
+![Mes Compétences](https://skillicons.dev/icons?i=php,mysql)
 
 ### 🔧 Outils & DevOps
 
-![Mes Compétences](https://skillicons.dev/icons?i=git,github,vscode,docker,aws,figma)
+![Mes Compétences](https://skillicons.dev/icons?i=git,github,vscode)
 
 </div>
 
@@ -34,10 +34,11 @@
 ## 🚀 Actuellement en Maîtrise
 
 <div align="center" style="margin:15px 0;">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+
+![Mes Compétences](https://skillicons.dev/icons?i=react,tailwind,nextjs,laravel,nodejs,express,docker,aws,figma)
+
 </div>
+
 
 ---
 
