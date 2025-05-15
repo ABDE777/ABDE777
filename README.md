@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src=1742345453027.jpg" alt="Typing SVG" />
-</h1>
+  <img src="1742345453027.jpg?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=👋+Bonjour,+je+suis+ABD+EL+MONIM+MAZGOURA!" alt="Typing SVG" /></h1>
 
 <h3 align="center">💻 Développeur Full-Stack | 🧠 Résolveur de Problèmes | 🚀 Passionné de Technologie</h3>
 
