@@ -17,7 +17,7 @@
 
 ### 🌐 Frontend
 
-![Mes Compétences](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nextjs)
+![Mes Compétences](https://skillicons.dev/icons?i=html,css,js,bootstrap)
 
 ### 🖥️ Backend
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Actuellement en Maîtrise
+## 🚀 Maîtrise prévue prochainement
 
 <div align="center" style="margin:15px 0;">
 
