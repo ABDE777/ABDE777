@@ -55,8 +55,14 @@ I'm a passionate web developer currently mastering the fundamentals (**HTML, CSS
 
 <div align="center">
 
-![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abde777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abde777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abde777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abde777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)  
+
+### 🏆 Trophées GitHub
+![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=abde777&theme=radical&no-frame=true&row=1&column=7)
+
+### 📊 Activity Graph
+![Graphique d’activité](https://github-readme-activity-graph.vercel.app/graph?username=abde777&theme=radical)
 
 </div>
 
@@ -86,6 +92,19 @@ I'm a passionate web developer currently mastering the fundamentals (**HTML, CSS
 - 🎨 **UI Appreciator**: Have a keen eye for clean design and intuitive UX
 
 </div>
+
+### 🎉 Fun Badges
+![Code Lover](https://img.shields.io/badge/💻-Code%20Lover-blue?style=for-the-badge)
+![Football Fan](https://img.shields.io/badge/⚽-Football%20Fan-green?style=for-the-badge)
+![Always Learning](https://img.shields.io/badge/📚-Always%20Learning-orange?style=for-the-badge)
+
+---
+
+## ☕ Support Me
+
+If you like my work, consider supporting me! 💙
+
+[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20A%20Coffee-orange?style=for-the-badge)](https://www.buymeacoffee.com/tonlien)
 
 ---
 
