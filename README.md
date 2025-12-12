@@ -1,111 +1,117 @@
-# Hello 👋, I'm ABDEL MONIM MAZGOURA
-### Développeur Full Stack
+# 👋 Hello, I'm ABD EL MONIM MAZGOURA! 
 
-Développeur Full Stack en formation, passionné par le web et les technologies modernes. Mon objectif : créer des expériences numériques performantes et innovantes.
+### 🌟 Aspiring Full-Stack Developer | Problem Solver | Tech Enthusiast
 
-## Contact Me
-<p><a href="www.linkedin.com/in/abd-el-monim-mazgoura-webfullstack/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="abdelmonim-mazgoura.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
-
-## Skills
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>&nbsp;
-</p>
-
-## Projects
-
-### ISFO Pro – Système numérique de gestion des attestations
-
-ISFO Pro, un système de gestion numérique des attestations conçu pour l’Institut Spécialisé de Formation de l’Offshoring (ISFO) Casablanca.
-
-🌟 APERÇU DU PROJET
-ISFO Pro modernise la manière dont les étudiants déposent leurs demandes et dont les administrateurs gèrent les attestations académiques, en remplaçant les procédures papier par une solution numérique rapide et efficace.
-
-💡 POINTS TECHNIQUES CLÉS :
-
-🚀 Application full-stack déployée sur Vercel
-
-🎨 UI/UX moderne, responsive et accessible
-
-🔐 Authentification sécurisée & contrôle d’accès par rôle
-
-📊 Données en temps réel et dashboards interactifs
-
-⚡ Performance optimisée et expérience fluide
-
-[View Project](https://isfo-pro.vercel.app)
+I'm a passionate web developer currently mastering the fundamentals (*HTML, CSS, JavaScript, MySQL, PHP) while expanding my skillset to include modern frameworks and tools. My goal is to become a **senior web developer* through continuous learning and hands-on projects.
 
 ---
 
-### 🏆 Championnat CSS Battle
+## 🛠 Tech Stack
 
-Plateforme web privée développée pour les étudiants de l’OFPPT, permettant de gérer un championnat CSS Battle interne.
-Les comptes joueurs sont créés depuis l’administration, et chaque participant lie son profil CSSBattle.dev
- après avoir ajouté “OFPPT” dans sa bio pour vérification.
+<div align="center">
 
-Un script automatisé (Playwright + Python + Supabase) récupère les scores depuis CSS Battle et met à jour le leaderboard en temps réel via GitHub Actions.
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Technologies utilisées : React, TypeScript, Tailwind CSS, Supabase, React Query, Python, Playwright, HTTPX, asyncio.
+### ⚙ Backend
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-[View Project](https://cssbattle-isfo.vercel.app/)
+### 🔧 Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
-### ANAS FRAGRANCES - Boutique de Parfums de Luxe
+## 🚀 Currently Learning
 
-Application e-commerce moderne pour la vente de parfums de luxe, construite avec React, TypeScript, Vite et Supabase. Catalogue de produits, panier, commandes, authentification utilisateur et espace administrateur complet avec support multilingue et design responsive.
+<div align="center" style="margin: 20px 0;">
 
-[View Project](https://anas-fragrances.vercel.app/)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+</div>
 
 ---
 
-## GitHub Stats
+## 📂 Featured Projects
 
-<img src="https://github-readme-stats.vercel.app/api?username=ABDE777&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDE777&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+[![Explore My Work](https://img.shields.io/badge/🚀_Explore_My_Repositories-2962FF?style=for-the-badge&logo=github&logoColor=white)](https://abde777.github.io/MY-LINKTREE/GITHUB.html)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDE777&theme=null" alt="GitHub Streak" />
+</div>
 
-<img src="https://profile-counter.glitch.me/ABDE777/count.svg?" alt="visitors count" />
+---
 
-## Support Me
+## 📈 GitHub Stats
 
-<a href="https://www.buymeacoffee.com/mazgouraab0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
+<div align="center">
 
-## GitHub Trophies
+![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abde777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abde777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)  
 
-<img src="https://github-profile-trophy.vercel.app/?username=ABDE777" alt="trophy" />
+### 🏆 Trophées GitHub
+![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=abde777&theme=radical&no-frame=true&row=1&column=7)
 
-## GitHub Activity Graph
+### 📊 Activity Graph
+![Graphique d’activité](https://github-readme-activity-graph.vercel.app/graph?username=abde777&theme=radical)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABDE777&radius=16&theme=xcode&area=true&order=5" height="300" alt="activity-graph" />
+</div>
 
+---
+
+## 📫 Let's Connect
+
+<div align="center" style="margin-top:20px;">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-monim-mazgoura-607b71277/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazgouraabdalmounim@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/techmo_x/)
+
+</div>
+
+---
+
+## 💡 Fun Facts About Me
+
+<div style="background-color: #0D1117; padding: 15px; border-radius: 10px; margin-top: 20px;">
+
+- 🐛 *Debugging Enthusiast*: I actually enjoy finding and fixing bugs!
+- ⚽ *Football Fan*: Love playing and watching football in my free time
+- 🤝 *Community Oriented*: Regularly participate in charity work
+- 👨‍💻 *Team Player*: Thrive in collaborative coding environments
+- 🌱 *Always Learning*: Currently diving deep into Laravel and React ecosystems
+- 🎨 *UI Appreciator*: Have a keen eye for clean design and intuitive UX
+
+</div>
+
+### 🎉 Fun Badges
+![Code Lover](https://img.shields.io/badge/💻-Code%20Lover-blue?style=for-the-badge)
+![Football Fan](https://img.shields.io/badge/⚽-Football%20Fan-green?style=for-the-badge)
+![Always Learning](https://img.shields.io/badge/📚-Always%20Learning-orange?style=for-the-badge)
+
+---
+
+## ☕ Support Me
+
+If you like my work, consider supporting me! 💙
+
+[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20A%20Coffee-orange?style=for-the-badge)](https://www.buymeacoffee.com/tonlien)
+
+---
+
+<div align="center" style="margin-top: 30px;">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=abde777&color=blueviolet&style=flat-square)
+
+</div>
+
+<h3 align="center">🚀 Let's Build Something Amazing Together! 🚀</h3>
