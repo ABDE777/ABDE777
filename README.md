@@ -121,59 +121,25 @@ const abdElMonim = {
 
 <div align="center">
 
-### 📅 2025 Roadmap
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🎯 Short Term
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="50" />
-
-```diff
-+ Master System Design
-+ Cloud Architecture (AWS/Azure)
-+ Advanced TypeScript Patterns
-+ Performance Optimization
-+ Microservices Architecture
+```mermaid
+mindmap
+  root((Abd El Monim<br/>2025 Goals))
+    Short Term
+      Master System Design
+      Cloud Architecture
+      Advanced TypeScript
+      Performance Optimization
+    Medium Term
+      Lead Developer Role
+      Mentor Junior Devs
+      Tech Speaker
+      Open Source Maintainer
+    Long Term
+      Launch Startup
+      Build SaaS Products
+      Create Tech Community
+      Global Impact
 ```
-
-</td>
-<td width="33%" align="center">
-
-### 🚀 Medium Term
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50" />
-
-```yaml
-goals:
-  - Lead Developer Role
-  - Mentor Junior Developers
-  - Tech Conference Speaker
-  - Open Source Maintainer
-  - Build Technical Community
-```
-
-</td>
-<td width="33%" align="center">
-
-### 🌟 Long Term
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="50" />
-
-```json
-{
-  "vision": [
-    "Launch Tech Startup",
-    "Build SaaS Products",
-    "Create Developer Community",
-    "Make Global Impact",
-    "Inspire Next Generation"
-  ]
-}
-```
-
-</td>
-</tr>
-</table>
 
 </div>
 
