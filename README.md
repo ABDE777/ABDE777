@@ -1,8 +1,8 @@
-# Hi there, I'm Abd El Monim Mazgoura! 👋
+# Salut, moi c’est Abd El Monim Mazgoura ! 👋
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Problem+Solver+%26+Tech+Enthusiast+%F0%9F%92%A1;Top+39+Global+on+CSSBattle.dev+%F0%9F%8F%86;Building+Scalable+Web+Applications+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Développeur+Web+Full+Stack+%F0%9F%9A%80;Résolveur+de+problèmes+%26+Passionné+de+Tech+%F0%9F%92%A1;Top+39+mondial+sur+CSSBattle.dev+%F0%9F%8F%86;Création+d’applications+web+scalables+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,17 +13,17 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazgouraabdalmounim@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABDE777)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ABDE777&color=blueviolet&style=for-the-badge)
+![Vues du profil](https://komarev.com/ghpvc/?username=ABDE777&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎯 À propos de moi
 
 <div align="center">
 
-### 👨‍💻 Full Stack Developer | Digital Innovation Enthusiast | Future Tech Entrepreneur
+### 👨‍💻 Développeur Full Stack | Passionné d’innovation digitale | Futur entrepreneur tech
 
 </div>
 
@@ -40,26 +40,26 @@
 
 ```typescript
 const abdElMonim = {
-  location: "📍 Casablanca, Morocco 🇲🇦",
+  localisation: "📍 Casablanca, Maroc 🇲🇦",
   age: 19,
-  role: "Full Stack Developer",
-  education: "Digital Development Specialist",
+  role: "Développeur Full Stack",
+  formation: "Spécialiste en Développement Digital",
   
-  currentlyLearning: [
+  apprentissageActuel: [
     "System Design",
-    "Cloud Architecture", 
-    "Advanced TypeScript"
+    "Architecture Cloud",
+    "TypeScript avancé"
   ],
   
   passions: [
-    "🚀 Building scalable applications",
-    "🎨 Creating beautiful UIs",
-    "🤝 Open source contribution",
-    "📚 Continuous learning"
+    "🚀 Création d’applications scalables",
+    "🎨 Conception d’interfaces modernes",
+    "🤝 Contribution open source",
+    "📚 Apprentissage continu"
   ],
   
-  motto: "Building today's solutions 
-          with tomorrow's technologies"
+  devise: "Construire les solutions d’aujourd’hui
+           avec les technologies de demain"
 };
 ```
 
@@ -69,34 +69,34 @@ const abdElMonim = {
 
 <div align="center">
 
-### 💡 **What Drives Me**
+### 💡 Ce qui me motive
 
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="60" height="60" />
 <br/><b>Passion</b>
-<br/><sub>Web Development Excellence</sub>
+<br/><sub>Excellence en développement web</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="60" height="60" />
-<br/><b>Learning</b>
-<br/><sub>Latest Technologies</sub>
+<br/><b>Apprentissage</b>
+<br/><sub>Nouvelles technologies</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60" height="60" />
 <br/><b>Innovation</b>
-<br/><sub>Creative Solutions</sub>
+<br/><sub>Solutions créatives</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="60" height="60" />
 <br/><b>Collaboration</b>
-<br/><sub>Team Growth</sub>
+<br/><sub>Évolution en équipe</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="60" height="60" />
 <br/><b>Ambition</b>
-<br/><sub>Entrepreneurial Success</sub>
+<br/><sub>Réussite entrepreneuriale</sub>
 </td>
 </tr>
 </table>
@@ -105,303 +105,112 @@ const abdElMonim = {
 
 <div align="center">
 
-### 🌟 **Why Hire Me?**
+### 🌟 Pourquoi me recruter ?
 
-| 💼 **Experience** | 🚀 **Innovation** | 🤝 **Collaboration** |
+| 💼 Expérience | 🚀 Innovation | 🤝 Collaboration |
 |:---:|:---:|:---:|
-| Real-world project delivery | Modern tech stack expertise | Strong team leadership |
-| Full-stack proficiency | Problem-solving mindset | Open source contributor |
-| Production-ready code | Performance optimization | Clear communication |
+| Livraison de projets réels | Maîtrise des stacks modernes | Leadership et esprit d’équipe |
+| Compétences full stack | Résolution de problèmes | Contribution open source |
+| Code prêt pour la production | Optimisation des performances | Communication claire |
 
 </div>
 
 ---
 
-## 🎯 Current Focus & Goals
+## 🎯 Objectifs actuels & vision
 
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2e9ef7', 'primaryTextColor':'#fff', 'primaryBorderColor':'#1e88e5', 'lineColor':'#64b5f6', 'secondaryColor':'#ffffff', 'tertiaryColor':'#ff6c37'}}}%%
 mindmap
-  root((Abd El Monim<br/>2025 Goals))
-    Short Term
-      Master System Design
-      Cloud Architecture
-      Advanced TypeScript
-      Performance Optimization
-    Medium Term
-      Lead Developer Role
-      Mentor Junior Devs
-      Tech Speaker
-      Open Source Maintainer
-    Long Term
-      Launch Startup
-      Build SaaS Products
-      Create Tech Community
-      Global Impact
+  root((Abd El Monim<br/>Objectifs 2025))
+    Court Terme
+      Maîtriser le System Design
+      Architecture Cloud
+      TypeScript avancé
+      Optimisation des performances
+    Moyen Terme
+      Rôle de Lead Developer
+      Mentorat de juniors
+      Conférencier tech
+      Mainteneur open source
+    Long Terme
+      Lancer une startup
+      Créer des produits SaaS
+      Bâtir une communauté tech
+      Impact global
 ```
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+## 🛠️ Stack technique
+
+### 💻 Frontend
+React • Next.js • TypeScript • Redux • Tailwind CSS • Vite • JavaScript • HTML5 • CSS3 • Bootstrap
+
+### ⚙️ Backend
+Node.js • Express.js • Laravel • PHP • Python • JWT
+
+### 🗄️ Bases de données & Cloud
+MongoDB • MySQL • PostgreSQL • Supabase • Firebase
+
+### 🚀 DevOps & Outils
+Git • GitHub • GitLab • Docker • Vercel • Netlify • Postman • Jira • VS Code • Figma
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🏆 Projets phares
 
-<details open>
-<summary><b>💻 Frontend Development</b></summary>
-<br/>
+### 🎓 ISFO Pro
+Système digital de gestion des attestations académiques avec génération automatique de certificats PDF et suivi en temps réel.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Database & Cloud</b></summary>
-<br/>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</details>
-
-<details open>
-<summary><b>🚀 DevOps & Tools</b></summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</details>
+Impact : réduction de 80 % du temps de traitement.
 
 ---
 
-## 🏆 Featured Projects
+### 🎨 CSSBattle ISFO
+Plateforme de compétition CSS en temps réel avec classement automatique et intégration GitHub Actions.
 
-> **Note:** Click on project titles to view the live demo or repository!
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 [ISFO Pro](https://github.com/ABDE777/isfo-pro)
-**Digital Certificate Management System**
-
-A comprehensive full-stack solution for modernizing academic attestation management with real-time tracking and automated certificate generation.
-
-**🔑 Key Features:**
-- ✅ Role-based authentication & authorization
-- ✅ Real-time admin & student dashboards
-- ✅ Automatic PDF certificate generation
-- ✅ Request tracking & status updates
-- ✅ Responsive modern UI/UX
-
-**🛠 Tech Stack:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**📊 Impact:** Reduced certificate processing time by 80%
-
-</td>
-<td width="50%">
-
-<img src="isfo-pro.png" alt="ISFO Pro Preview" width="100%" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<img src="css.png" alt="CSSBattle ISFO Preview" width="100%" />
-
-</td>
-<td width="50%">
-
-### 🎨 [CSSBattle ISFO](https://github.com/ABDE777/cssbattle-isfo)
-**Real-Time CSS Competition Platform**
-
-An engaging platform for CSS challenges with live leaderboards, automated scoring, and GitHub Actions integration.
-
-**🔑 Key Features:**
-- ✅ Daily CSS challenges with real-time updates
-- ✅ Automated scoring & ranking system
-- ✅ Live leaderboard with user profiles
-- ✅ GitHub Actions for automation
-- ✅ Playwright integration for testing
-
-**🛠 Tech Stack:**
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**📊 Impact:** 50+ active participants, 200+ challenges completed
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛍️ [ANAS FRAGRANCES](https://github.com/ABDE777/anas-fragrances)
-**Luxury Perfume E-Commerce Platform**
-
-A modern, feature-rich e-commerce platform delivering premium shopping experience with multi-language support and secure transactions.
-
-**🔑 Key Features:**
-- ✅ Complete shopping cart & checkout flow
-- ✅ Product catalog with filtering & search
-- ✅ Order tracking & management
-- ✅ Multi-language admin panel
-- ✅ Secure authentication system
-
-**🛠 Tech Stack:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**📊 Impact:** 30% increase in customer engagement
-
-</td>
-<td width="50%">
-
-<img src="anas-fragrances.png" alt="ANAS FRAGRANCES Preview" width="100%" />
-
-</td>
-</tr>
-</table>
+Impact : 50+ participants actifs, 200+ challenges réalisés.
 
 ---
 
-## 📊 GitHub Analytics
+### 🛍️ ANAS FRAGRANCES
+Plateforme e-commerce moderne pour parfums de luxe avec panier, paiement sécurisé et panneau d’administration multilingue.
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=ABDE777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDE777&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDE777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABDE777&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" height="170"/>
-
-</div>
+Impact : +30 % d’engagement client.
 
 ---
 
-## 🎓 Certifications & Achievements
-
-<div align="center">
-
-| 🏆 Achievement | 📅 Date | 🎯 Focus Area |
-|:---|:---:|:---|
-| **Introduction to Modern AI** - Cisco | April 2025 | Artificial Intelligence & Machine Learning |
-| **CSS, Bootstrap, JavaScript, PHP Full Stack** - Udemy | Jan 2025 | Web Development Fundamentals |
-| **Figma: UI/UX Design Masterclass** - Udemy | Sept 2024 | Interface Design & Prototyping |
-| **Top 39 Global Rank** - CSSBattle.dev | Ongoing | Advanced CSS & Creative Problem-Solving |
-| **IT Club Leadership** - ISFO | 2024-Present | Team Management & Workshop Facilitation |
-
-</div>
+## 📊 Statistiques GitHub
+Activité constante, contributions régulières et spécialisation en JavaScript / TypeScript.
 
 ---
 
-## 🎯 What I'm Looking For
+## 🎓 Certifications & distinctions
 
-<div align="center">
-
-```mermaid
-graph LR
-    A[Open to Opportunities] --> B[Full-Stack Developer Roles]
-    A --> C[Innovative Startups]
-    A --> D[Open Source Projects]
-    A --> E[Technical Leadership]
-    
-    B --> F[Remote or Casablanca]
-    C --> F
-    D --> G[Global Collaboration]
-    E --> G
-    
-    style A fill:#2e9ef7,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#339933,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#ff6c37,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#3ecf8e,stroke:#fff,stroke-width:2px,color:#fff
-    style E fill:#f7df1e,stroke:#000,stroke-width:2px,color:#000
-```
-
-</div>
-
-### 💼 Ideal Collaboration
-
-- 🚀 **Startups** building the next big thing
-- 🌟 **Open Source** projects making real impact
-- 🏢 **Companies** valuing innovation and growth
-- 🎓 **EdTech** platforms transforming education
-- 💡 **SaaS Products** solving real-world problems
+- Introduction à l’IA moderne – Cisco (2025)
+- Full Stack Web (CSS, JS, PHP) – Udemy
+- UI/UX Design avec Figma – Udemy
+- Top 39 mondial – CSSBattle.dev
+- Responsable IT Club – ISFO
 
 ---
 
-## 💬 Let's Build Something Amazing Together!
+## 🎯 Ce que je recherche
 
-<div align="center">
-
-### 🤝 I'm Always Open To:
-
-**Discussing new projects** • **Collaborating on open source** • **Sharing knowledge** • **Networking with developers** • **Exploring opportunities**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-monim-mazgoura-webfullstack/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdelmonim-mazgoura.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazgouraabdalmounim@gmail.com)
-
-<br/>
-
-### 🌍 Languages
-**Arabic** (Native) • **French** (B2) • **English** (B2)
-
-<br/>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- Postes de développeur Full Stack
+- Startups innovantes
+- Projets open source à impact réel
+- Environnements favorisant la croissance
 
 ---
 
-<sub>⭐️ From [ABDE777](https://github.com/ABDE777) with ❤️ | *"Clean code always looks like it was written by someone who cares."*</sub>
+## 💬 Construisons quelque chose d’exceptionnel ensemble
 
-</div>
+Langues : Arabe (natif) • Français (B2) • Anglais (B2)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+visiting!&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
+⭐️ « Un code propre donne toujours l’impression d’avoir été écrit par quelqu’un qui s’en soucie. »
+
