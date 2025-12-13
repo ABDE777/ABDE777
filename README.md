@@ -122,6 +122,7 @@ const abdElMonim = {
 <div align="center">
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2e9ef7', 'primaryTextColor':'#fff', 'primaryBorderColor':'#1e88e5', 'lineColor':'#64b5f6', 'secondaryColor':'#339933', 'tertiaryColor':'#ff6c37'}}}%%
 mindmap
   root((Abd El Monim<br/>2025 Goals))
     Short Term
