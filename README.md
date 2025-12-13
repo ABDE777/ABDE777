@@ -59,39 +59,97 @@ const abdElMonim = {
 
 ## 🛠️ Tech Arsenal
 
-<details open>
-<summary><b>💻 Frontend Development</b></summary>
-<br/>
+<div align="center">
+
+```mermaid
+graph TD
+    A[🚀 Full Stack Web Developer] --> B[💻 Frontend Development]
+    A --> C[⚙️ Backend Development]
+    A --> D[🗄️ Database & Cloud]
+    A --> E[🔧 DevOps & Tools]
+    
+    B --> B1[React & Next.js]
+    B --> B2[TypeScript & JavaScript]
+    B --> B3[Tailwind CSS & Bootstrap]
+    B --> B4[Redux & State Management]
+    B --> B5[Vite & Build Tools]
+    
+    C --> C1[Node.js & Express.js]
+    C --> C2[PHP & Laravel]
+    C --> C3[Python]
+    C --> C4[REST APIs & JWT]
+    
+    D --> D1[SQL: MySQL & PostgreSQL]
+    D --> D2[NoSQL: MongoDB]
+    D --> D3[Cloud: Supabase & Firebase]
+    
+    E --> E1[Git & GitHub/GitLab]
+    E --> E2[Docker & Containerization]
+    E --> E3[Vercel & Netlify]
+    E --> E4[Postman & Testing]
+    E --> E5[VS Code & Figma]
+    
+    style A fill:#2e9ef7,stroke:#fff,stroke-width:3px,color:#fff
+    style B fill:#61dafb,stroke:#fff,stroke-width:2px,color:#000
+    style C fill:#339933,stroke:#fff,stroke-width:2px,color:#fff
+    style D fill:#3ecf8e,stroke:#fff,stroke-width:2px,color:#000
+    style E fill:#ff6c37,stroke:#fff,stroke-width:2px,color:#fff
+    
+    style B1 fill:#20232a,stroke:#61dafb,stroke-width:2px,color:#fff
+    style B2 fill:#007acc,stroke:#fff,stroke-width:2px,color:#fff
+    style B3 fill:#38b2ac,stroke:#fff,stroke-width:2px,color:#fff
+    style B4 fill:#593d88,stroke:#fff,stroke-width:2px,color:#fff
+    style B5 fill:#646cff,stroke:#fff,stroke-width:2px,color:#fff
+    
+    style C1 fill:#339933,stroke:#fff,stroke-width:2px,color:#fff
+    style C2 fill:#ff2d20,stroke:#fff,stroke-width:2px,color:#fff
+    style C3 fill:#3776ab,stroke:#fff,stroke-width:2px,color:#fff
+    style C4 fill:#000000,stroke:#fff,stroke-width:2px,color:#fff
+    
+    style D1 fill:#4479a1,stroke:#fff,stroke-width:2px,color:#fff
+    style D2 fill:#47a248,stroke:#fff,stroke-width:2px,color:#fff
+    style D3 fill:#3ecf8e,stroke:#fff,stroke-width:2px,color:#000
+    
+    style E1 fill:#f05032,stroke:#fff,stroke-width:2px,color:#fff
+    style E2 fill:#2496ed,stroke:#fff,stroke-width:2px,color:#fff
+    style E3 fill:#00c7b7,stroke:#fff,stroke-width:2px,color:#fff
+    style E4 fill:#ff6c37,stroke:#fff,stroke-width:2px,color:#fff
+    style E5 fill:#007acc,stroke:#fff,stroke-width:2px,color:#fff
+```
+
+</div>
+
+### 📦 Detailed Tech Stack
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+**💻 Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</details>
+</td>
+<td width="25%" align="center">
 
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br/>
+**⚙️ Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-</details>
+</td>
+<td width="25%" align="center">
 
-<details open>
-<summary><b>🗄️ Database & Cloud</b></summary>
-<br/>
+**🗄️ Database**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -99,24 +157,21 @@ const abdElMonim = {
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-</details>
+</td>
+<td width="25%" align="center">
 
-<details open>
-<summary><b>🚀 DevOps & Tools</b></summary>
-<br/>
+**🔧 DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
