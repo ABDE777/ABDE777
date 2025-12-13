@@ -69,34 +69,34 @@ const abdElMonim = {
 
 <div align="center">
 
-### 💡 **Ce Qui Me Motive**
+### 💡 **What Drives Me**
 
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" width="60" height="60" />
 <br/><b>Passion</b>
-<br/><sub>Excellence en Développement Web</sub>
+<br/><sub>Web Development Excellence</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="60" height="60" />
-<br/><b>Apprentissage</b>
-<br/><sub>Dernières Technologies</sub>
+<br/><b>Learning</b>
+<br/><sub>Latest Technologies</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60" height="60" />
 <br/><b>Innovation</b>
-<br/><sub>Solutions Créatives</sub>
+<br/><sub>Creative Solutions</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="60" height="60" />
 <br/><b>Collaboration</b>
-<br/><sub>Croissance d'Équipe</sub>
+<br/><sub>Team Growth</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="60" height="60" />
 <br/><b>Ambition</b>
-<br/><sub>Succès Entrepreneurial</sub>
+<br/><sub>Entrepreneurial Success</sub>
 </td>
 </tr>
 </table>
