@@ -1,192 +1,168 @@
-# Hi there, I'm Abd El Monim Mazgoura! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%A1;Tech+Enthusiast+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
-
-</div>
-
-## 🚀 About Me
-
-🎓 **Technician Specialized in Digital Development** @ Institut Spécialisé de Formation de l'Offshoring, Casablanca
-
-💼 **IT Club Leader** - Organizing tech workshops, developing the club website, and leading collaborative projects
-
-🌱 **Passionate** about creating innovative and performant digital experiences
-
-🎯 **Goal:** Become a senior web developer through continuous learning and building impactful projects
-
-📍 **Location:** Casablanca, Morocco
-
----
-
-## 🔥 Current Focus
+# `console.log("Welcome to my digital space")` 🌐
 
 ```javascript
-const abdElMonim = {
-    currentlyLearning: ["Advanced React Patterns", "System Design", "DevOps & CI/CD"],
-    workingOn: "Building scalable web applications with modern tech stacks",
-    lookingToCollaborate: "Open source projects & innovative web solutions",
-    funFact: "I love solving CSS challenges and competing in CSSBattle! 🎨"
-};
+class Developer {
+  constructor() {
+    this.name = "Abd El Monim Mazgoura";
+    this.role = "Full Stack Architect";
+    this.location = "Casablanca, Morocco 🇲🇦";
+    this.status = "Transforming ideas into digital realities";
+  }
+
+  getCurrentMission() {
+    return {
+      focus: ["Scalable Architecture", "AI Integration", "Performance Optimization"],
+      building: "Next-generation web applications that users love",
+      philosophy: "Clean code isn't written, it's crafted"
+    };
+  }
+
+  getWorkMode() {
+    return this.caffeineLevel > 50 ? "🚀 Hyperfocus" : "☕ Refueling";
+  }
+}
+
+const me = new Developer();
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 What Drives Me
 
-### 💻 Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+I don't just write code—I solve problems and create experiences. Every project is an opportunity to push boundaries and challenge the status quo. Whether it's optimizing a slow database query or designing an intuitive user interface, I'm obsessed with the details that matter.
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🚀 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-### 🎨 Design & Others
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Currently exploring:** How AI can augment developer workflows | Advanced React patterns | Cloud-native architectures
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Arsenal
+
+**Languages I speak fluently:**  
+`JavaScript/TypeScript` `PHP` `Python` `SQL` `HTML5/CSS3`
+
+**Frontend Mastery:**  
+`React` `Next.js` `Redux` `TailwindCSS` `Vite` `Responsive Design` `Web Animations`
+
+**Backend Engineering:**  
+`Node.js` `Express` `Laravel` `RESTful APIs` `JWT Auth` `WebSockets`
+
+**Data Layer:**  
+`MongoDB` `PostgreSQL` `MySQL` `Supabase` `Firebase` `Redis`
+
+**DevOps & Workflow:**  
+`Git/GitHub/GitLab` `Docker` `CI/CD` `Vercel` `Netlify` `Postman` `Jira`
+
+**Design Thinking:**  
+`Figma` `UI/UX Principles` `Design Systems` `Accessibility`
+
+---
+
+## 💼 What I'm Building
+
+### 🎓 ISFO Pro
+**Digital Certificate Management Reimagined**  
+A complete overhaul of traditional academic attestation systems—real-time dashboards, automated certificate generation, and role-based access control that just works.
+
+`React` `Supabase` `Real-time Updates` `Smart Authentication`
+
+---
+
+### 🎨 CSSBattle ISFO
+**Where Code Meets Competition**  
+Daily CSS challenges with automated scoring, live leaderboards, and GitHub Actions integration. Because frontend development should be fun and competitive.
+
+`Next.js` `TypeScript` `Playwright` `Automated Testing` `Real-time Scoring`
+
+---
+
+### 🛍️ ANAS FRAGRANCES
+**E-commerce with Elegance**  
+A luxury perfume platform built for performance and user experience—from browsing to checkout, every interaction is refined.
+
+`React` `TypeScript` `Vite` `Supabase` `Secure Payments`
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  
-![Abd El Monim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABDE777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABDE777&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABDE777&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDE777&layout=compact&theme=tokyonight&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ABDE777&theme=radical&hide_border=true)
+
+![Language Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDE777&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🎓 Continuous Learning
 
-### 🎓 [ISFO Pro – Digital Certificate Management](https://github.com/ABDE777/isfo-pro)
-Full-stack web application for managing academic attestations digitally
-- 🔹 **Tech Stack:** React, Tailwind CSS, Supabase
-- 🔹 Real-time dashboards & role-based authentication
-- 🔹 Automatic certificate generation with tracking system
-- 🔹 Responsive UI/UX design
+- **Introduction to Modern AI** → Cisco (April 2025)
+- **Full Stack Development Mastery** → Udemy (January 2025)
+- **UI/UX Design Excellence** → Udemy (September 2025)
 
-### 🎨 [CSSBattle ISFO – CSS Competition Platform](https://github.com/ABDE777/cssbattle-isfo)
-Real-time CSS challenge platform with live leaderboards
-- 🔹 **Tech Stack:** React, Next.js, TypeScript, Supabase, Playwright
-- 🔹 Daily CSS challenges & automated scoring
-- 🔹 GitHub Actions integration for automation
-- 🔹 Promotes creativity and front-end skills
-
-### 🛍️ [ANAS FRAGRANCES – Luxury Perfume E-commerce](https://github.com/ABDE777/anas-fragrances)
-Modern e-commerce platform with full shopping experience
-- 🔹 **Tech Stack:** React, TypeScript, Vite, Supabase
-- 🔹 Product catalog, cart management & order tracking
-- 🔹 Multi-language admin panel
-- 🔹 Secure authentication system
+*Always learning, always evolving. The tech landscape never sleeps, and neither does my curiosity.*
 
 ---
 
-## 📜 Certifications
+## 🌍 Beyond the Code
 
-🎓 **Introduction to Modern AI** - Cisco (April 2025)
-
-🎓 **CSS, Bootstrap, JavaScript, PHP Full Stack Crash Course** - Udemy (January 2025)
-
-🎓 **Learn Figma: UI/UX Design Masterclass** - Udemy (September 2025)
-
----
-
-## 🌱 Currently Learning
-
-- 🔸 Advanced React patterns and architecture
-- 🔸 Cloud infrastructure and DevOps practices
-- 🔸 System design and scalability
-- 🔸 AI integration in web applications
+- 🎨 **CSSBattle Competitor** → Turning design challenges into art
+- 👥 **IT Club Leader** → Building communities, not just software
+- 🌐 **Languages:** Arabic (Native) | French (B2) | English (B2)
+- 💡 **Philosophy:** "The best code is the code you don't have to write"
 
 ---
 
-## 🎯 Fun Facts
+## 🤝 Let's Collaborate
 
-- 🎨 I'm a **CSSBattle enthusiast** and love creating pixel-perfect designs
-- 🤝 Active member and leader in tech communities
-- 📚 Always learning something new every day
-- 🌍 Fluent in **Arabic** (native), **French** (B2), and **English** (B2)
-- ⚡ I believe in the power of collaboration and open source
+I'm actively seeking opportunities to work on:
 
----
-
-## 🤝 Open to Collaborate On
-
-- 💡 Innovative web applications and SaaS products
-- 🌟 Open source projects that make a difference
-- 🚀 Startups looking for a passionate full-stack developer
-- 🎓 Educational platforms and learning management systems
+- 🚀 **High-impact SaaS products** that solve real problems
+- 🌟 **Open source initiatives** that give back to the community
+- 💼 **Startup ventures** where innovation meets execution
+- 🎓 **Educational platforms** that democratize learning
 
 ---
 
-## 📫 Let's Connect!
+## 📡 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-monim-mazgoura-webfullstack/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdelmonim-mazgoura.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazgouraabdalmounim@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABDE777)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-monim-mazgoura-webfullstack/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdelmonim-mazgoura.vercel.app)
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazgouraabdalmounim@gmail.com)
+[![GitHub](https://img.shields.io/badge/⭐_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABDE777)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=ABDE777&color=blueviolet&style=for-the-badge)
+### 💭 Developer Wisdom
 
-</div>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-<div align="center">
-  
-**⭐️ From [ABDE777](https://github.com/ABDE777) with ❤️**
+![Profile Views](https://komarev.com/ghpvc/?username=ABDE777&color=blueviolet&style=for-the-badge)
 
-*"Code is like humor. When you have to explain it, it's bad!"* 😄
+---
+
+```javascript
+// If you've read this far, you're my kind of developer 🤝
+const collaborate = async () => {
+  const ideas = await brainstorm();
+  const product = await build(ideas);
+  return ship(product); // Let's make something amazing together
+};
+```
+
+**Built with 💙 by [Abd El Monim Mazgoura](https://github.com/ABDE777)**
+
+*"The only way to do great work is to love what you do"*
 
 </div>
