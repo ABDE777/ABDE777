@@ -1,6 +1,6 @@
-<div align="center">
+<h1 align="center">
   # Salut, je suis Abd El Monim Mazgoura ! 👋
-</div>
+</h1>
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=D%C3%A9veloppeur+Full+Stack+%F0%9F%9A%80;R%C3%A9solveur+de+Probl%C3%A8mes+%26+Passionn%C3%A9+de+Tech+%F0%9F%92%A1;Top+39+Mondial+sur+CSSBattle.dev+%F0%9F%8F%86;Cr%C3%A9ation+d'Applications+Web+%C3%89volutives+%E2%9C%A8)](https://git.io/typing-svg)
