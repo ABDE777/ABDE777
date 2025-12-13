@@ -131,14 +131,6 @@ Modern e-commerce platform with full shopping experience
 
 ---
 
-## 🌱 Currently Learning
-
-- 🔸 Advanced React patterns and architecture
-- 🔸 Cloud infrastructure and DevOps practices
-- 🔸 System design and scalability
-- 🔸 AI integration in web applications
-
----
 
 ## 🎯 Fun Facts
 
