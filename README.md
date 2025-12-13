@@ -122,7 +122,7 @@ const abdElMonim = {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2e9ef7', 'primaryTextColor':'#fff', 'primaryBorderColor':'#1e88e5', 'lineColor':'#64b5f6', 'secondaryColor':'#339933', 'tertiaryColor':'#ff6c37'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2e9ef7', 'primaryTextColor':'#fff', 'primaryBorderColor':'#1e88e5', 'lineColor':'#64b5f6', 'secondaryColor':'#ffffff', 'tertiaryColor':'#ff6c37'}}}%%
 mindmap
   root((Abd El Monim<br/>Objectifs 2025))
     Court Terme
@@ -232,11 +232,11 @@ Une solution full-stack complète pour moderniser la gestion des attestations ac
 - ✅ Interface utilisateur moderne et responsive
 
 **🛠 Stack Technique :**
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**📊 Impact :** Réduction du temps de traitement des certificats de 80%
 
 </td>
 <td width="50%">
@@ -267,11 +267,11 @@ Une plateforme engageante pour les défis CSS avec classements en direct, notati
 - ✅ Intégration Playwright pour les tests
 
 **🛠 Stack Technique :**
+
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**📊 Impact :** 50+ participants actifs, 200+ défis complétés
 
 </td>
 </tr>
@@ -292,12 +292,12 @@ Une plateforme e-commerce moderne et riche en fonctionnalités offrant une expé
 - ✅ Système d'authentification sécurisé
 
 **🛠 Stack Technique :**
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**📊 Impact :** Augmentation de 30% de l'engagement client
 
 </td>
 <td width="50%">
