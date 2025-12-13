@@ -163,7 +163,7 @@ A comprehensive full-stack solution for modernizing academic attestation managem
 <tr>
 <td width="50%">
 
-<img src="https://raw.githubusercontent.com/ABDE777/cssbattle-isfo/main/preview.png" alt="CSSBattle ISFO Preview" width="100%" />
+<img src="css.png" alt="CSSBattle ISFO Preview" width="100%" />
 
 > *Replace with your actual screenshot URL*
 > 
