@@ -1,8 +1,8 @@
-# Hi there, I'm Abd El Monim Mazgoura! 👋
+# Salut, je suis Abd El Monim Mazgoura ! 👋
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Problem+Solver+%26+Tech+Enthusiast+%F0%9F%92%A1;Top+39+Global+on+CSSBattle.dev+%F0%9F%8F%86;Building+Scalable+Web+Applications+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=D%C3%A9veloppeur+Full+Stack+%F0%9F%9A%80;R%C3%A9solveur+de+Probl%C3%A8mes+%26+Passionn%C3%A9+de+Tech+%F0%9F%92%A1;Top+39+Mondial+sur+CSSBattle.dev+%F0%9F%8F%86;Cr%C3%A9ation+d'Applications+Web+%C3%89volutives+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,17 +13,17 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazgouraabdalmounim@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABDE777)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ABDE777&color=blueviolet&style=for-the-badge)
+![Vues du Profil](https://komarev.com/ghpvc/?username=ABDE777&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎯 À Propos de Moi
 
 <div align="center">
 
-### 👨‍💻 Full Stack Developer | Digital Innovation Enthusiast | Future Tech Entrepreneur
+### 👨‍💻 Développeur Full Stack | Passionné d'Innovation Digitale | Futur Entrepreneur Tech
 
 </div>
 
@@ -40,26 +40,26 @@
 
 ```typescript
 const abdElMonim = {
-  location: "📍 Casablanca, Morocco 🇲🇦",
+  localisation: "📍 Casablanca, Maroc 🇲🇦",
   age: 19,
-  role: "Full Stack Developer",
-  education: "Digital Development Specialist",
+  role: "Développeur Full Stack",
+  formation: "Technicien Spécialisé en Développement Digital",
   
-  currentlyLearning: [
-    "System Design",
-    "Cloud Architecture", 
-    "Advanced TypeScript"
+  enApprentissage: [
+    "Architecture Système",
+    "Architecture Cloud", 
+    "TypeScript Avancé"
   ],
   
   passions: [
-    "🚀 Building scalable applications",
-    "🎨 Creating beautiful UIs",
-    "🤝 Open source contribution",
-    "📚 Continuous learning"
+    "🚀 Créer des applications évolutives",
+    "🎨 Concevoir de belles interfaces",
+    "🤝 Contribution open source",
+    "📚 Apprentissage continu"
   ],
   
-  motto: "Building today's solutions 
-          with tomorrow's technologies"
+  devise: "Construire les solutions d'aujourd'hui 
+           avec les technologies de demain"
 };
 ```
 
@@ -69,34 +69,34 @@ const abdElMonim = {
 
 <div align="center">
 
-### 💡 **What Drives Me**
+### 💡 **Ce Qui Me Motive**
 
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="60" height="60" />
 <br/><b>Passion</b>
-<br/><sub>Web Development Excellence</sub>
+<br/><sub>Excellence en Développement Web</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="60" height="60" />
-<br/><b>Learning</b>
-<br/><sub>Latest Technologies</sub>
+<br/><b>Apprentissage</b>
+<br/><sub>Dernières Technologies</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60" height="60" />
 <br/><b>Innovation</b>
-<br/><sub>Creative Solutions</sub>
+<br/><sub>Solutions Créatives</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="60" height="60" />
 <br/><b>Collaboration</b>
-<br/><sub>Team Growth</sub>
+<br/><sub>Croissance d'Équipe</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="60" height="60" />
 <br/><b>Ambition</b>
-<br/><sub>Entrepreneurial Success</sub>
+<br/><sub>Succès Entrepreneurial</sub>
 </td>
 </tr>
 </table>
@@ -105,41 +105,41 @@ const abdElMonim = {
 
 <div align="center">
 
-### 🌟 **Why Hire Me?**
+### 🌟 **Pourquoi Me Recruter ?**
 
-| 💼 **Experience** | 🚀 **Innovation** | 🤝 **Collaboration** |
+| 💼 **Expérience** | 🚀 **Innovation** | 🤝 **Collaboration** |
 |:---:|:---:|:---:|
-| Real-world project delivery | Modern tech stack expertise | Strong team leadership |
-| Full-stack proficiency | Problem-solving mindset | Open source contributor |
-| Production-ready code | Performance optimization | Clear communication |
+| Livraison de projets réels | Expertise des technologies modernes | Leadership d'équipe solide |
+| Maîtrise full-stack | Esprit de résolution de problèmes | Contributeur open source |
+| Code prêt pour la production | Optimisation des performances | Communication claire |
 
 </div>
 
 ---
 
-## 🎯 Current Focus & Goals
+## 🎯 Focus Actuel & Objectifs
 
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2e9ef7', 'primaryTextColor':'#fff', 'primaryBorderColor':'#1e88e5', 'lineColor':'#64b5f6', 'secondaryColor':'#ffffff', 'tertiaryColor':'#ff6c37'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2e9ef7', 'primaryTextColor':'#fff', 'primaryBorderColor':'#1e88e5', 'lineColor':'#64b5f6', 'secondaryColor':'#339933', 'tertiaryColor':'#ff6c37'}}}%%
 mindmap
-  root((Abd El Monim<br/>2025 Goals))
-    Short Term
-      Master System Design
-      Cloud Architecture
-      Advanced TypeScript
-      Performance Optimization
-    Medium Term
-      Lead Developer Role
-      Mentor Junior Devs
-      Tech Speaker
-      Open Source Maintainer
-    Long Term
-      Launch Startup
-      Build SaaS Products
-      Create Tech Community
-      Global Impact
+  root((Abd El Monim<br/>Objectifs 2025))
+    Court Terme
+      Maîtriser l'Architecture Système
+      Architecture Cloud
+      TypeScript Avancé
+      Optimisation des Performances
+    Moyen Terme
+      Poste de Lead Developer
+      Mentorat de Juniors
+      Conférencier Tech
+      Mainteneur Open Source
+    Long Terme
+      Lancer une Startup
+      Créer des Produits SaaS
+      Bâtir une Communauté Tech
+      Impact Global
 ```
 
 </div>
@@ -148,10 +148,10 @@ mindmap
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Arsenal Technologique
 
 <details open>
-<summary><b>💻 Frontend Development</b></summary>
+<summary><b>💻 Développement Frontend</b></summary>
 <br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -168,7 +168,7 @@ mindmap
 </details>
 
 <details open>
-<summary><b>⚙️ Backend Development</b></summary>
+<summary><b>⚙️ Développement Backend</b></summary>
 <br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -181,7 +181,7 @@ mindmap
 </details>
 
 <details open>
-<summary><b>🗄️ Database & Cloud</b></summary>
+<summary><b>🗄️ Base de Données & Cloud</b></summary>
 <br/>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -193,7 +193,7 @@ mindmap
 </details>
 
 <details open>
-<summary><b>🚀 DevOps & Tools</b></summary>
+<summary><b>🚀 DevOps & Outils</b></summary>
 <br/>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -211,37 +211,37 @@ mindmap
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Projets Phares
 
-> **Note:** Click on project titles to view the live demo or repository!
+> **Note :** Cliquez sur les titres des projets pour voir la démo en direct ou le dépôt !
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🎓 [ISFO Pro](https://github.com/ABDE777/isfo-pro)
-**Digital Certificate Management System**
+**Système de Gestion des Certificats Numériques**
 
-A comprehensive full-stack solution for modernizing academic attestation management with real-time tracking and automated certificate generation.
+Une solution full-stack complète pour moderniser la gestion des attestations académiques avec suivi en temps réel et génération automatique de certificats.
 
-**🔑 Key Features:**
-- ✅ Role-based authentication & authorization
-- ✅ Real-time admin & student dashboards
-- ✅ Automatic PDF certificate generation
-- ✅ Request tracking & status updates
-- ✅ Responsive modern UI/UX
+**🔑 Fonctionnalités Clés :**
+- ✅ Authentification & autorisation basées sur les rôles
+- ✅ Tableaux de bord admin & étudiant en temps réel
+- ✅ Génération automatique de certificats PDF
+- ✅ Suivi des demandes & mises à jour de statut
+- ✅ Interface utilisateur moderne et responsive
 
-**🛠 Tech Stack:**
+**🛠 Stack Technique :**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**📊 Impact:** Reduced certificate processing time by 80%
+**📊 Impact :** Réduction du temps de traitement des certificats de 80%
 
 </td>
 <td width="50%">
 
-<img src="isfo-pro.png" alt="ISFO Pro Preview" width="100%" />
+<img src="isfo-pro.png" alt="Aperçu ISFO Pro" width="100%" />
 
 </td>
 </tr>
@@ -249,29 +249,29 @@ A comprehensive full-stack solution for modernizing academic attestation managem
 <tr>
 <td width="50%">
 
-<img src="css.png" alt="CSSBattle ISFO Preview" width="100%" />
+<img src="css.png" alt="Aperçu CSSBattle ISFO" width="100%" />
 
 </td>
 <td width="50%">
 
 ### 🎨 [CSSBattle ISFO](https://github.com/ABDE777/cssbattle-isfo)
-**Real-Time CSS Competition Platform**
+**Plateforme de Compétition CSS en Temps Réel**
 
-An engaging platform for CSS challenges with live leaderboards, automated scoring, and GitHub Actions integration.
+Une plateforme engageante pour les défis CSS avec classements en direct, notation automatisée et intégration GitHub Actions.
 
-**🔑 Key Features:**
-- ✅ Daily CSS challenges with real-time updates
-- ✅ Automated scoring & ranking system
-- ✅ Live leaderboard with user profiles
-- ✅ GitHub Actions for automation
-- ✅ Playwright integration for testing
+**🔑 Fonctionnalités Clés :**
+- ✅ Défis CSS quotidiens avec mises à jour en temps réel
+- ✅ Système de notation & classement automatisé
+- ✅ Classement en direct avec profils utilisateurs
+- ✅ GitHub Actions pour l'automatisation
+- ✅ Intégration Playwright pour les tests
 
-**🛠 Tech Stack:**
+**🛠 Stack Technique :**
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**📊 Impact:** 50+ active participants, 200+ challenges completed
+**📊 Impact :** 50+ participants actifs, 200+ défis complétés
 
 </td>
 </tr>
@@ -280,29 +280,29 @@ An engaging platform for CSS challenges with live leaderboards, automated scorin
 <td width="50%">
 
 ### 🛍️ [ANAS FRAGRANCES](https://github.com/ABDE777/anas-fragrances)
-**Luxury Perfume E-Commerce Platform**
+**Plateforme E-Commerce de Parfums de Luxe**
 
-A modern, feature-rich e-commerce platform delivering premium shopping experience with multi-language support and secure transactions.
+Une plateforme e-commerce moderne et riche en fonctionnalités offrant une expérience d'achat premium avec support multilingue et transactions sécurisées.
 
-**🔑 Key Features:**
-- ✅ Complete shopping cart & checkout flow
-- ✅ Product catalog with filtering & search
-- ✅ Order tracking & management
-- ✅ Multi-language admin panel
-- ✅ Secure authentication system
+**🔑 Fonctionnalités Clés :**
+- ✅ Panier d'achat complet & processus de commande
+- ✅ Catalogue produits avec filtrage & recherche
+- ✅ Suivi & gestion des commandes
+- ✅ Panneau d'administration multilingue
+- ✅ Système d'authentification sécurisé
 
-**🛠 Tech Stack:**
+**🛠 Stack Technique :**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**📊 Impact:** 30% increase in customer engagement
+**📊 Impact :** Augmentation de 30% de l'engagement client
 
 </td>
 <td width="50%">
 
-<img src="anas-fragrances.png" alt="ANAS FRAGRANCES Preview" width="100%" />
+<img src="anas-fragrances.png" alt="Aperçu ANAS FRAGRANCES" width="100%" />
 
 </td>
 </tr>
@@ -310,50 +310,50 @@ A modern, feature-rich e-commerce platform delivering premium shopping experienc
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Statistiques GitHub
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=ABDE777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDE777&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ABDE777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Statistiques GitHub" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDE777&theme=tokyonight&hide_border=true" alt="Série GitHub" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDE777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABDE777&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDE777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langages Principaux" height="170"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABDE777&theme=tokyo-night&hide_border=true&area=true" alt="Graphique de Contribution" height="170"/>
 
 </div>
 
 ---
 
-## 🎓 Certifications & Achievements
+## 🎓 Certifications & Réalisations
 
 <div align="center">
 
-| 🏆 Achievement | 📅 Date | 🎯 Focus Area |
+| 🏆 Réalisation | 📅 Date | 🎯 Domaine |
 |:---|:---:|:---|
-| **Introduction to Modern AI** - Cisco | April 2025 | Artificial Intelligence & Machine Learning |
-| **CSS, Bootstrap, JavaScript, PHP Full Stack** - Udemy | Jan 2025 | Web Development Fundamentals |
-| **Figma: UI/UX Design Masterclass** - Udemy | Sept 2024 | Interface Design & Prototyping |
-| **Top 39 Global Rank** - CSSBattle.dev | Ongoing | Advanced CSS & Creative Problem-Solving |
-| **IT Club Leadership** - ISFO | 2024-Present | Team Management & Workshop Facilitation |
+| **Introduction à l'IA Moderne** - Cisco | Avril 2025 | Intelligence Artificielle & Apprentissage Automatique |
+| **CSS, Bootstrap, JavaScript, PHP Full Stack** - Udemy | Jan 2025 | Fondamentaux du Développement Web |
+| **Figma: Masterclass UI/UX Design** - Udemy | Sept 2024 | Design d'Interface & Prototypage |
+| **Top 39 Classement Mondial** - CSSBattle.dev | En cours | CSS Avancé & Résolution Créative de Problèmes |
+| **Leadership du Club IT** - ISFO | 2024-Présent | Gestion d'Équipe & Animation d'Ateliers |
 
 </div>
 
 ---
 
-## 🎯 What I'm Looking For
+## 🎯 Ce Que Je Recherche
 
 <div align="center">
 
 ```mermaid
 graph LR
-    A[Open to Opportunities] --> B[Full-Stack Developer Roles]
-    A --> C[Innovative Startups]
-    A --> D[Open Source Projects]
-    A --> E[Technical Leadership]
+    A[Ouvert aux Opportunités] --> B[Postes de Développeur Full-Stack]
+    A --> C[Startups Innovantes]
+    A --> D[Projets Open Source]
+    A --> E[Leadership Technique]
     
-    B --> F[Remote or Casablanca]
+    B --> F[Distant ou Casablanca]
     C --> F
-    D --> G[Global Collaboration]
+    D --> G[Collaboration Mondiale]
     E --> G
     
     style A fill:#2e9ef7,stroke:#fff,stroke-width:2px,color:#fff
@@ -365,34 +365,34 @@ graph LR
 
 </div>
 
-### 💼 Ideal Collaboration
+### 💼 Collaboration Idéale
 
-- 🚀 **Startups** building the next big thing
-- 🌟 **Open Source** projects making real impact
-- 🏢 **Companies** valuing innovation and growth
-- 🎓 **EdTech** platforms transforming education
-- 💡 **SaaS Products** solving real-world problems
+- 🚀 **Startups** construisant la prochaine grande innovation
+- 🌟 **Projets Open Source** ayant un impact réel
+- 🏢 **Entreprises** valorisant l'innovation et la croissance
+- 🎓 **Plateformes EdTech** transformant l'éducation
+- 💡 **Produits SaaS** résolvant des problèmes concrets
 
 ---
 
-## 💬 Let's Build Something Amazing Together!
+## 💬 Construisons Quelque Chose d'Incroyable Ensemble !
 
 <div align="center">
 
-### 🤝 I'm Always Open To:
+### 🤝 Je Suis Toujours Ouvert Pour :
 
-**Discussing new projects** • **Collaborating on open source** • **Sharing knowledge** • **Networking with developers** • **Exploring opportunities**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-monim-mazgoura-webfullstack/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdelmonim-mazgoura.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazgouraabdalmounim@gmail.com)
+**Discuter de nouveaux projets** • **Collaborer sur l'open source** • **Partager des connaissances** • **Réseauter avec des développeurs** • **Explorer des opportunités**
 
 <br/>
 
-### 🌍 Languages
-**Arabic** (Native) • **French** (B2) • **English** (B2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectons_nous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-monim-mazgoura-webfullstack/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Voir_Mon_Travail-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdelmonim-mazgoura.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contactez_moi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazgouraabdalmounim@gmail.com)
+
+<br/>
+
+### 🌍 Langues
+**Arabe** (Natif) • **Français** (B2) • **Anglais** (B2)
 
 <br/>
 
@@ -400,8 +400,8 @@ graph LR
 
 ---
 
-<sub>⭐️ From [ABDE777](https://github.com/ABDE777) with ❤️ | *"Clean code always looks like it was written by someone who cares."*</sub>
+<sub>⭐️ De [ABDE777](https://github.com/ABDE777) avec ❤️ | *"Un code propre ressemble toujours à quelque chose écrit par quelqu'un qui s'en soucie."*</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+visiting!&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Merci+de+votre+visite!&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
