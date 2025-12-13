@@ -150,12 +150,7 @@ A comprehensive full-stack solution for modernizing academic attestation managem
 </td>
 <td width="50%">
 
-<img src="https://raw.githubusercontent.com/ABDE777/isfo-pro/main/preview.png" alt="ISFO Pro Preview" width="100%" />
-
-> *Replace with your actual screenshot URL*
-> 
-> **Or use a placeholder:**
-> `https://via.placeholder.com/600x400/1a1b27/2e9ef7?text=ISFO+Pro+Screenshot`
+<img src="isfo-pro.png" alt="ISFO Pro Preview" width="100%" />
 
 </td>
 </tr>
