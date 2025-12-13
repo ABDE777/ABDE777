@@ -211,12 +211,8 @@ A modern, feature-rich e-commerce platform delivering premium shopping experienc
 </td>
 <td width="50%">
 
-<img src="https://raw.githubusercontent.com/ABDE777/anas-fragrances/main/preview.png" alt="ANAS FRAGRANCES Preview" width="100%" />
+<img src="anas-fragrances.png" alt="ANAS FRAGRANCES Preview" width="100%" />
 
-> *Replace with your actual screenshot URL*
-> 
-> **Or use a placeholder:**
-> `https://via.placeholder.com/600x400/1a1b27/ff5722?text=ANAS+FRAGRANCES+Screenshot`
 
 </td>
 </tr>
