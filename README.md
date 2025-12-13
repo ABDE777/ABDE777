@@ -26,67 +26,80 @@
 ### 👨‍💻 Full Stack Developer | Digital Innovation Enthusiast | Future Tech Entrepreneur
 
 </div>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-**📍 Location:** Casablanca, Morocco 🇲🇦  
-**👤 Name:** Abd El Monim Mazgoura  
-**🎂 Age:** 19 years old  
-**🎓 Education:** Technician Specialized in Digital Development  
-**💼 Current Status:** Full Stack Developer (Learning & Building)
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 👋 Who I Am
+</td>
+<td width="50%" valign="top">
 
-I'm a passionate Full Stack Developer dedicated to building **high-performance and innovative digital experiences**. With a strong foundation in modern web technologies, I'm constantly evolving my skills to stay at the forefront of the tech industry.
+<br/>
 
-My approach combines **technical expertise** with **creative problem-solving** to deliver solutions that make a real impact.
-
----
-
-## 🎯 Current Focus & Goals
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Abd El Monim<br/>2025 Goals))
-    Short Term
-      Master System Design
-      Cloud Architecture
-      Advanced TypeScript
-      Performance Optimization
-    Medium Term
-      Lead Developer Role
-      Mentor Junior Devs
-      Tech Speaker
-      Open Source Maintainer
-    Long Term
-      Launch Startup
-      Build SaaS Products
-      Create Tech Community
-      Global Impact
+```typescript
+const abdElMonim = {
+  location: "📍 Casablanca, Morocco 🇲🇦",
+  age: 19,
+  role: "Full Stack Developer",
+  education: "Digital Development Specialist",
+  
+  currentlyLearning: [
+    "System Design",
+    "Cloud Architecture", 
+    "Advanced TypeScript"
+  ],
+  
+  passions: [
+    "🚀 Building scalable applications",
+    "🎨 Creating beautiful UIs",
+    "🤝 Open source contribution",
+    "📚 Continuous learning"
+  ],
+  
+  motto: "Building today's solutions 
+          with tomorrow's technologies"
+};
 ```
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-### 💡 What Drives Me
-
-- **🔥 Passion for Web Development** - Creating seamless digital experiences
-- **📚 Continuous Learning** - Always exploring the latest technologies
-- **🎨 Innovation Focus** - Pushing boundaries with creative solutions
-- **🤝 Collaboration** - Growing through teamwork and knowledge sharing
-- **🚀 Ambition** - Building toward entrepreneurial success
-
----
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-*"Building today's solutions with tomorrow's technologies"* 💻✨
+### 💡 **What Drives Me**
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="60" height="60" />
+<br/><b>Passion</b>
+<br/><sub>Web Development Excellence</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="60" height="60" />
+<br/><b>Learning</b>
+<br/><sub>Latest Technologies</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60" height="60" />
+<br/><b>Innovation</b>
+<br/><sub>Creative Solutions</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="60" height="60" />
+<br/><b>Collaboration</b>
+<br/><sub>Team Growth</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="60" height="60" />
+<br/><b>Ambition</b>
+<br/><sub>Entrepreneurial Success</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -101,6 +114,70 @@ mindmap
 | Production-ready code | Performance optimization | Clear communication |
 
 </div>
+
+---
+
+## 🎯 Current Focus & Goals
+
+<div align="center">
+
+### 📅 2025 Roadmap
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎯 Short Term
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="50" />
+
+```diff
++ Master System Design
++ Cloud Architecture (AWS/Azure)
++ Advanced TypeScript Patterns
++ Performance Optimization
++ Microservices Architecture
+```
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 Medium Term
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50" />
+
+```yaml
+goals:
+  - Lead Developer Role
+  - Mentor Junior Developers
+  - Tech Conference Speaker
+  - Open Source Maintainer
+  - Build Technical Community
+```
+
+</td>
+<td width="33%" align="center">
+
+### 🌟 Long Term
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="50" />
+
+```json
+{
+  "vision": [
+    "Launch Tech Startup",
+    "Build SaaS Products",
+    "Create Developer Community",
+    "Make Global Impact",
+    "Inspire Next Generation"
+  ]
+}
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -260,7 +337,6 @@ A modern, feature-rich e-commerce platform delivering premium shopping experienc
 
 <img src="anas-fragrances.png" alt="ANAS FRAGRANCES Preview" width="100%" />
 
-
 </td>
 </tr>
 </table>
@@ -360,4 +436,5 @@ graph LR
 <sub>⭐️ From [ABDE777](https://github.com/ABDE777) with ❤️ | *"Clean code always looks like it was written by someone who cares."*</sub>
 
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+visiting!&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
