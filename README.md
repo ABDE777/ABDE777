@@ -23,53 +23,72 @@
 
 <div align="center">
 
-### 👨‍💻 Full Stack Web Developer | IT Club Leader | Problem Solver
+### 👨‍💻 Full Stack Developer | Digital Innovation Enthusiast | Future Tech Entrepreneur
 
 </div>
 
-**📍 Based in:** Casablanca, Morocco 🇲🇦  
+**📍 Location:** Casablanca, Morocco 🇲🇦  
+**👤 Name:** Abd El Monim Mazgoura  
+**🎂 Age:** 19 years old  
 **🎓 Education:** Technician Specialized in Digital Development  
-**💼 Current Role:** Full Stack Developer & IT Club Leadership at ISFO
+**💼 Current Status:** Full Stack Developer (Learning & Building)
 
 ---
 
-### 🚀 What I Do
+### 👋 Who I Am
 
-I build **modern, scalable web applications** from start to finish. Whether it's a sleek user interface or a robust backend system, I handle the complete development lifecycle. My passion lies in turning complex problems into elegant, user-friendly solutions.
+I'm a passionate Full Stack Developer dedicated to building **high-performance and innovative digital experiences**. With a strong foundation in modern web technologies, I'm constantly evolving my skills to stay at the forefront of the tech industry.
 
-### 🎯 Currently Focused On
+My approach combines **technical expertise** with **creative problem-solving** to deliver solutions that make a real impact.
 
-- **Learning:** Advanced React patterns, system architecture, and DevOps practices
-- **Building:** Enterprise-grade applications with cutting-edge technologies  
-- **Leading:** IT Club workshops and mentoring aspiring developers
-- **Growing:** Advancing toward senior developer expertise through continuous innovation
+---
 
-### 🏆 Key Achievements
+### 🎯 My Goals
 
-- **🥇 Top 39 Globally** on CSSBattle.dev among thousands of developers
-- **👥 IT Club Leader** organizing tech workshops and community events
-- **🚀 15+ Projects** successfully delivered and deployed to production
-- **💡 Innovation Focus** consistently implementing modern best practices
+<table>
+<tr>
+<td width="33%" align="center">
 
-### 💼 What Sets Me Apart
+#### 🚀 Short Term
+**Master Modern Technologies**
 
-✨ **Full-Stack Expertise** - Comfortable with both frontend aesthetics and backend logic  
-🎯 **Problem Solver** - I thrive on tackling complex challenges with creative solutions  
-🤝 **Team Player** - Strong collaboration skills with proven leadership experience  
-📚 **Continuous Learner** - Always staying current with the latest technologies  
-🏃 **Fast Executor** - From concept to deployment, I deliver results efficiently
+Continuously learning new frameworks and tools to stay ahead in the ever-evolving tech landscape.
 
-### 🌍 Languages
+</td>
+<td width="33%" align="center">
 
-- **Arabic** - Native
-- **French** - Professional (B2)
-- **English** - Professional (B2)
+#### 📈 Medium Term
+**Become a Lead Developer**
+
+Guide and mentor development teams to create exceptional technological solutions.
+
+</td>
+<td width="33%" align="center">
+
+#### 🌟 Long Term
+**Launch My Tech Company**
+
+Build innovative products that transform the digital world and solve real problems.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💡 What Drives Me
+
+- **🔥 Passion for Web Development** - Creating seamless digital experiences
+- **📚 Continuous Learning** - Always exploring the latest technologies
+- **🎨 Innovation Focus** - Pushing boundaries with creative solutions
+- **🤝 Collaboration** - Growing through teamwork and knowledge sharing
+- **🚀 Ambition** - Building toward entrepreneurial success
 
 ---
 
 <div align="center">
 
-*"I transform ideas into reality through clean, efficient code. Let's build something amazing together!"* ☕💻
+*"Building today's solutions with tomorrow's technologies"* 💻✨
 
 </div>
 
