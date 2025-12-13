@@ -1,117 +1,192 @@
-# 👋 Hello, I'm ABD EL MONIM MAZGOURA! 
+# Hi there, I'm Abd El Monim Mazgoura! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-### 🌟 Aspiring Full-Stack Developer | Problem Solver | Tech Enthusiast
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%A1;Tech+Enthusiast+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-I'm a passionate web developer currently mastering the fundamentals (*HTML, CSS, JavaScript, MySQL, PHP) while expanding my skillset to include modern frameworks and tools. My goal is to become a **senior web developer* through continuous learning and hands-on projects.
+</div>
+
+## 🚀 About Me
+
+🎓 **Technician Specialized in Digital Development** @ Institut Spécialisé de Formation de l'Offshoring, Casablanca
+
+💼 **IT Club Leader** - Organizing tech workshops, developing the club website, and leading collaborative projects
+
+🌱 **Passionate** about creating innovative and performant digital experiences
+
+🎯 **Goal:** Become a senior web developer through continuous learning and building impactful projects
+
+📍 **Location:** Casablanca, Morocco
 
 ---
 
-## 🛠 Tech Stack
+## 🔥 Current Focus
 
-<div align="center">
+```javascript
+const abdElMonim = {
+    currentlyLearning: ["Advanced React Patterns", "System Design", "DevOps & CI/CD"],
+    workingOn: "Building scalable web applications with modern tech stacks",
+    lookingToCollaborate: "Open source projects & innovative web solutions",
+    funFact: "I love solving CSS challenges and competing in CSSBattle! 🎨"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### ⚙ Backend
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🚀 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### 🎨 Design & Others
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Abd El Monim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABDE777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABDE777&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDE777&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🚀 Currently Learning
+## 🏆 Featured Projects
 
-<div align="center" style="margin: 20px 0;">
+### 🎓 [ISFO Pro – Digital Certificate Management](https://github.com/ABDE777/isfo-pro)
+Full-stack web application for managing academic attestations digitally
+- 🔹 **Tech Stack:** React, Tailwind CSS, Supabase
+- 🔹 Real-time dashboards & role-based authentication
+- 🔹 Automatic certificate generation with tracking system
+- 🔹 Responsive UI/UX design
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+### 🎨 [CSSBattle ISFO – CSS Competition Platform](https://github.com/ABDE777/cssbattle-isfo)
+Real-time CSS challenge platform with live leaderboards
+- 🔹 **Tech Stack:** React, Next.js, TypeScript, Supabase, Playwright
+- 🔹 Daily CSS challenges & automated scoring
+- 🔹 GitHub Actions integration for automation
+- 🔹 Promotes creativity and front-end skills
 
-</div>
+### 🛍️ [ANAS FRAGRANCES – Luxury Perfume E-commerce](https://github.com/ABDE777/anas-fragrances)
+Modern e-commerce platform with full shopping experience
+- 🔹 **Tech Stack:** React, TypeScript, Vite, Supabase
+- 🔹 Product catalog, cart management & order tracking
+- 🔹 Multi-language admin panel
+- 🔹 Secure authentication system
 
 ---
 
-## 📂 Featured Projects
+## 📜 Certifications
+
+🎓 **Introduction to Modern AI** - Cisco (April 2025)
+
+🎓 **CSS, Bootstrap, JavaScript, PHP Full Stack Crash Course** - Udemy (January 2025)
+
+🎓 **Learn Figma: UI/UX Design Masterclass** - Udemy (September 2025)
+
+---
+
+## 🌱 Currently Learning
+
+- 🔸 Advanced React patterns and architecture
+- 🔸 Cloud infrastructure and DevOps practices
+- 🔸 System design and scalability
+- 🔸 AI integration in web applications
+
+---
+
+## 🎯 Fun Facts
+
+- 🎨 I'm a **CSSBattle enthusiast** and love creating pixel-perfect designs
+- 🤝 Active member and leader in tech communities
+- 📚 Always learning something new every day
+- 🌍 Fluent in **Arabic** (native), **French** (B2), and **English** (B2)
+- ⚡ I believe in the power of collaboration and open source
+
+---
+
+## 🤝 Open to Collaborate On
+
+- 💡 Innovative web applications and SaaS products
+- 🌟 Open source projects that make a difference
+- 🚀 Startups looking for a passionate full-stack developer
+- 🎓 Educational platforms and learning management systems
+
+---
+
+## 📫 Let's Connect!
 
 <div align="center">
 
-[![Explore My Work](https://img.shields.io/badge/🚀_Explore_My_Repositories-2962FF?style=for-the-badge&logo=github&logoColor=white)](https://abde777.github.io/MY-LINKTREE/GITHUB.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-monim-mazgoura-webfullstack/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdelmonim-mazgoura.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazgouraabdalmounim@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABDE777)
 
 </div>
 
 ---
-
-## 📈 GitHub Stats
 
 <div align="center">
+  
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abde777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abde777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)  
-
-### 🏆 Trophées GitHub
-![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=abde777&theme=radical&no-frame=true&row=1&column=7)
-
-### 📊 Activity Graph
-![Graphique d’activité](https://github-readme-activity-graph.vercel.app/graph?username=abde777&theme=radical)
+### 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=ABDE777&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+<div align="center">
+  
+**⭐️ From [ABDE777](https://github.com/ABDE777) with ❤️**
 
-<div align="center" style="margin-top:20px;">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-monim-mazgoura-607b71277/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazgouraabdalmounim@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/techmo_x/)
+*"Code is like humor. When you have to explain it, it's bad!"* 😄
 
 </div>
-
----
-
-## 💡 Fun Facts About Me
-
-<div style="background-color: #0D1117; padding: 15px; border-radius: 10px; margin-top: 20px;">
-
-- 🐛 *Debugging Enthusiast*: I actually enjoy finding and fixing bugs!
-- ⚽ *Football Fan*: Love playing and watching football in my free time
-- 🤝 *Community Oriented*: Regularly participate in charity work
-- 👨‍💻 *Team Player*: Thrive in collaborative coding environments
-- 🌱 *Always Learning*: Currently diving deep into Laravel and React ecosystems
-- 🎨 *UI Appreciator*: Have a keen eye for clean design and intuitive UX
-
-</div>
-
-### 🎉 Fun Badges
-![Code Lover](https://img.shields.io/badge/💻-Code%20Lover-blue?style=for-the-badge)
-![Football Fan](https://img.shields.io/badge/⚽-Football%20Fan-green?style=for-the-badge)
-![Always Learning](https://img.shields.io/badge/📚-Always%20Learning-orange?style=for-the-badge)
-
----
-
-## ☕ Support Me
-
-If you like my work, consider supporting me! 💙
-
-[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20A%20Coffee-orange?style=for-the-badge)](https://www.buymeacoffee.com/tonlien)
-
----
-
-<div align="center" style="margin-top: 30px;">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=abde777&color=blueviolet&style=flat-square)
-
-</div>
-
-<h3 align="center">🚀 Let's Build Something Amazing Together! 🚀</h3>
