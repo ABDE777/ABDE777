@@ -165,11 +165,6 @@ A comprehensive full-stack solution for modernizing academic attestation managem
 
 <img src="css.png" alt="CSSBattle ISFO Preview" width="100%" />
 
-> *Replace with your actual screenshot URL*
-> 
-> **Or use a placeholder:**
-> `https://via.placeholder.com/600x400/1a1b27/f7df1e?text=CSSBattle+ISFO+Screenshot`
-
 </td>
 <td width="50%">
 
