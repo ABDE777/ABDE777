@@ -150,7 +150,12 @@ A comprehensive full-stack solution for modernizing academic attestation managem
 </td>
 <td width="50%">
 
-<img src="isfo-pro.png" alt="ISFO Pro Preview" width="100%" />
+<img src="https://raw.githubusercontent.com/ABDE777/isfo-pro/main/preview.png" alt="ISFO Pro Preview" width="100%" />
+
+> *Replace with your actual screenshot URL*
+> 
+> **Or use a placeholder:**
+> `https://via.placeholder.com/600x400/1a1b27/2e9ef7?text=ISFO+Pro+Screenshot`
 
 </td>
 </tr>
@@ -158,7 +163,12 @@ A comprehensive full-stack solution for modernizing academic attestation managem
 <tr>
 <td width="50%">
 
-<img src="css.png" alt="CSSBattle ISFO Preview" width="100%" />
+<img src="https://raw.githubusercontent.com/ABDE777/cssbattle-isfo/main/preview.png" alt="CSSBattle ISFO Preview" width="100%" />
+
+> *Replace with your actual screenshot URL*
+> 
+> **Or use a placeholder:**
+> `https://via.placeholder.com/600x400/1a1b27/f7df1e?text=CSSBattle+ISFO+Screenshot`
 
 </td>
 <td width="50%">
@@ -211,8 +221,12 @@ A modern, feature-rich e-commerce platform delivering premium shopping experienc
 </td>
 <td width="50%">
 
-<img src="anas-fragrances.png" alt="ANAS FRAGRANCES Preview" width="100%" />
+<img src="https://raw.githubusercontent.com/ABDE777/anas-fragrances/main/preview.png" alt="ANAS FRAGRANCES Preview" width="100%" />
 
+> *Replace with your actual screenshot URL*
+> 
+> **Or use a placeholder:**
+> `https://via.placeholder.com/600x400/1a1b27/ff5722?text=ANAS+FRAGRANCES+Screenshot`
 
 </td>
 </tr>
@@ -225,10 +239,10 @@ A modern, feature-rich e-commerce platform delivering premium shopping experienc
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=ABDE777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDE777&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=ABDE777&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDE777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABDE777&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABDE777&theme=tokyonight" alt="Contribution Graph" width="100%"/>
 
 </div>
 
