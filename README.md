@@ -1,89 +1,161 @@
+<div align="center">
+
 # Abd El Monim Mazgoura
 
-## Junior Full-Stack Web Developer
+### Junior Full-Stack Web Developer
 
-I build practical web applications with **React, Node.js and Spring Boot**, from responsive user interfaces to secure REST APIs and role-based dashboards. I am based in Casablanca, Morocco, and I am open to junior frontend, backend and full-stack opportunities.
+Building useful web products with **React, Node.js and Spring Boot**
 
-Currently, I work at **Wafa IMA Assistance** and previously completed a full-stack internship at **Wafa Assurance**, where I contributed to an automotive-expertise management platform. I am also completing my specialized training in Digital Development, Web Full Stack, at OFPPT.
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdelmonim-mazgoura.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-monim-mazgoura-webfullstack/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazgouraabdalmounim@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABDE777)
 
-[Portfolio](https://abdelmonim-mazgoura.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abd-el-monim-mazgoura-webfullstack/) · [Email](mailto:mazgouraabdalmounim@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=ABDE777&style=flat-square&color=0B7285" alt="Profile views" />
+
+</div>
 
 ---
 
-## What I Build
+## About me
 
-- Responsive and accessible interfaces with React, TypeScript, Tailwind CSS and Material UI.
+I am a junior web developer based in **Casablanca, Morocco**, focused on building reliable and maintainable full-stack applications. I enjoy turning business requirements into clear interfaces, secure APIs and practical digital products.
+
+- Currently working at **Wafa IMA Assistance**.
+- Completed a full-stack internship at **Wafa Assurance**.
+- Specialized Technician in Digital Development, Web Full Stack, at **OFPPT**.
+- Open to junior **React, Node.js and Full-Stack** opportunities.
+
+## What I build
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" alt="Frontend technologies" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php,laravel" alt="Backend technologies" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,supabase" alt="Database technologies" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vercel,postman,figma" alt="Tools and cloud technologies" />
+
+</div>
+
+- Responsive interfaces with React, TypeScript, Tailwind CSS and Material UI.
 - REST APIs with Node.js/Express and Spring Boot.
 - Secure applications with JWT, OAuth2, Keycloak and role-based access control.
 - Data-driven systems using PostgreSQL, MongoDB, MySQL, Prisma and Supabase.
 - Real-time features with WebSocket/STOMP.
 - Cloud-ready applications using Docker, Cloudinary, Vercel and CI/CD workflows.
 
-## Featured Projects
+## Featured projects
 
-### [212LEARN — E-learning Platform](https://212-learn.vercel.app/)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A Moroccan full-stack learning platform for students, instructors and administrators. It includes course and lesson management, resources, assignments, quizzes, learner progress, certificates, cart and coupons, enrollment and payment flows, dashboards, notifications, virtual classrooms and AI-assisted quiz generation.
+### <a href="https://212-learn.vercel.app/">212LEARN</a>
 
-**Stack:** React, Vite, Node.js, Express, Prisma, PostgreSQL, JWT, Cloudinary, Groq, Upstash Redis, MiroTalk and Vercel.
+**Full-stack e-learning platform**
 
-### SI Expert Assurance — Automotive Expertise Management
+A Moroccan learning platform for students, instructors and administrators. It supports courses, lessons, resources, assignments, quizzes, learner progress, certificates, cart, coupons, enrollment, payment flows, dashboards, notifications, virtual classrooms and AI-assisted quiz generation.
 
-A business application developed during my internship at Wafa Assurance to centralize automotive expertise missions, photos, estimates, statuses and timelines. I contributed to the React frontend, Spring Boot REST APIs, Keycloak OAuth2/JWT security and real-time WebSocket/STOMP notifications.
+`React` `Node.js` `Express` `Prisma` `PostgreSQL` `JWT` `Groq`
 
-**Stack:** React 19, Redux Toolkit, Material UI, Spring Boot, PostgreSQL, Keycloak and WebSocket/STOMP.
+</td>
+<td width="50%" valign="top">
 
-### ISFO Digital — Administrative and Academic Management
+### SI Expert Assurance
 
-A full-stack platform developed for an OFPPT training center to manage trainees, absences, sanctions, schedules, assessments, grades and certificates. The system includes JWT authentication, multiple user roles, analytics dashboards, audit logging, QR-code verification and digitally signed certificates.
+**Automotive expertise management**
 
-**Stack:** React 19, Node.js, Express, PostgreSQL, Prisma and JWT.
+Business application developed during my internship at Wafa Assurance to manage missions, photos, estimates, statuses and timelines. Includes secured Spring Boot APIs and real-time notifications.
 
-### CSSBattle ISFO — Real-Time CSS Challenge Platform
+`React 19` `Redux Toolkit` `Material UI` `Spring Boot` `PostgreSQL` `Keycloak`
 
-A React platform created for students to practice CSS through daily challenges and live rankings.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Stack:** React, Tailwind CSS and Supabase.
+### ISFO Digital
 
----
+**Administrative and academic management**
 
-## Technical Stack
+Full-stack platform for trainees, absences, sanctions, schedules, assessments, grades and certificates. Includes JWT authentication, multiple roles, analytics, audit logging and QR-code verification.
 
-| Area | Technologies |
-| --- | --- |
-| Frontend | React, JavaScript, TypeScript, React Router, Redux Toolkit, React Query, Next.js, Tailwind CSS, Bootstrap, Material UI |
-| Backend | Node.js, Express.js, Java, Spring Boot, Spring Security, Laravel, REST APIs, WebSocket/STOMP |
-| Data | PostgreSQL, MongoDB, MySQL, Prisma, Supabase |
-| Security | JWT, OAuth2, Keycloak, 2FA/OTP, role-based access control |
-| Tools & cloud | Git, GitHub, GitLab, Docker, Postman, Cloudinary, Vercel, Netlify, Azure, Figma |
+`React` `Node.js` `Express` `PostgreSQL` `Prisma`
 
-## Experience & Education
+</td>
+<td width="50%" valign="top">
 
-- **Chargé de compte sinistre automobile — Wafa IMA Assistance** · June 2026 – Present
-- **Full-Stack Developer Intern — Wafa Assurance** · March 2026 – April 2026
-- **Training & Projects Manager / Ambassador — IT Club, OFPPT/ISFO** · April 2025 – Present
-- **Specialized Technician in Digital Development, Web Full Stack — OFPPT Casablanca** · 2024 – 2026
+### CSSBattle ISFO
 
-## Certifications & Languages
+**Real-time CSS challenge platform**
 
-- MongoDB: From Relational Model to Document Model
-- Cisco: Introduction to Modern AI
+A student-focused platform with daily CSS challenges and live rankings, designed to improve frontend creativity and speed.
+
+`React` `Tailwind CSS` `Supabase`
+
+</td>
+</tr>
+</table>
+
+## 212LEARN architecture
+
+```mermaid
+flowchart LR
+    Student[Student] --> Web[React + Vite Frontend]
+    Instructor[Instructor] --> Web
+    Admin[Administrator] --> Web
+    Web --> API[Node.js + Express REST API]
+    API --> Auth[JWT + RBAC]
+    API --> DB[(PostgreSQL + Prisma)]
+    API --> Media[Cloudinary]
+    API --> AI[Groq AI Quizzes]
+    API --> Cache[Upstash Redis]
+    API --> Live[MiroTalk Virtual Classroom]
+```
+
+## Engineering focus
+
+```text
+Product idea
+    -> Responsive UI
+    -> Secure REST API
+    -> Data model and role-based access
+    -> Tests and validation
+    -> Cloud deployment
+```
+
+## Experience and education
+
+| Role | Organization | Period |
+| --- | --- | --- |
+| Chargé de compte sinistre automobile | Wafa IMA Assistance | June 2026 – Present |
+| Full-Stack Developer Intern | Wafa Assurance | March 2026 – April 2026 |
+| Training & Projects Manager / Ambassador | IT Club, OFPPT/ISFO | April 2025 – Present |
+| Specialized Technician, Digital Development — Web Full Stack | OFPPT Casablanca | 2024 – 2026 |
+
+## Certifications and languages
+
+- MongoDB — From Relational Model to Document Model
+- Cisco — Introduction to Modern AI
 - Advanced Web Development
 - Git version control
 - Figma / UI-UX Design
 - JavaScript Fundamentals
 - Arabic: Native · French: B2 · English: B2
 
-## Open to Opportunities
+## Open to opportunities
 
-I am interested in junior roles where I can contribute to real products, strengthen my engineering practice and grow within a collaborative team.
+I am looking for a junior role where I can contribute to real products, learn from experienced engineers and grow within a collaborative team.
 
-**Target roles:** React Developer · Node.js Developer · JavaScript Developer · Junior Full-Stack Developer
+**React Developer · Node.js Developer · JavaScript Developer · Junior Full-Stack Developer**
 
----
+<div align="center">
 
-<p align="center">
-  <a href="https://abdelmonim-mazgoura.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/abd-el-monim-mazgoura-webfullstack/">LinkedIn</a> ·
-  <a href="mailto:mazgouraabdalmounim@gmail.com">Contact me</a>
-</p>
+### Let’s build something useful.
+
+[![Visit my portfolio](https://img.shields.io/badge/Visit_my_portfolio-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdelmonim-mazgoura.vercel.app/)
+
+</div>
